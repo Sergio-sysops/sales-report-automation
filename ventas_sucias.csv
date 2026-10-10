@@ -1,0 +1,1251 @@
+order_id,date,product,region,seller,qty,unit_price
+ORD-10803,Aug 17 2026,WIRELESS MOUSE,North,Ana,-3,"24,90"
+ORD-10905,2026-03-17,"27"" Monitor",north,Javier,2,219.00 €
+ORD-10953,12/01/2026,Laptop Stand,west,Luis,1,32.00 €
+ORD-11011,20-02-2026,mechanical keyboard,East,Ana,5,79.00 €
+ORD-10524,Sep 16 2026,"27""  Monitor",West,Marta,2,€219.00
+ORD-10505,24-07-2026,"  27"" Monitor ",west,Javier,3,219.00 €
+ORD-10496,24/09/2026,  USB-C Hub ,South,Lucía,3,39.50
+ORD-10532,19-07-2026,Mechanical Keyboard,east,Javier,2,€79.00
+ORD-10557,09/05/2026,Wireless  Mouse,west,Marta,1,24.90 €
+ORD-11167,Sep 18 2026,webcam hd,North,Javier,2,49.90 €
+ORD-10289,07-05-2026,"27"" MONITOR",north,Luis,3,219.00
+ORD-10353,Mar 14 2026,  Laptop Stand ,East,Lucía,2,"32,00"
+ORD-10476,Jan 14 2026,webcam hd,north,Javier,2,"49,90"
+ORD-10323,13-02-2026,LAPTOP STAND,South,Ana,1,32.00 €
+ORD-10260,May 16 2026,LAPTOP STAND,West,Marta,2,€32.00
+ORD-10865,17/06/2026,Wireless  Mouse,West,Marta,1,24.90
+ORD-10986,2026-07-01,USB-C  Hub,North,Ana,3,"39,50"
+ORD-10818,May 21 2026,MECHANICAL KEYBOARD,south,Lucía,1,"79,00"
+ORD-10852,09/02/2026,wireless mouse,South,Luis,2,24.90 €
+ORD-10839,Jan 23 2026,Wireless  Mouse,North,Javier,2,"24,90"
+ORD-10742,2026-02-27,USB-C HUB,South,Javier,2,39.50
+ORD-10964,23/06/2026,"27"" Monitor",south,Lucía,2,219.00 €
+ORD-10985,Sep 20 2026,  Wireless Mouse ,South,Javier,3,€24.90
+ORD-10447,16-04-2026,Mechanical Keyboard,west,Ana,1,"79,00"
+ORD-10451,31/07/2026,Laptop  Stand,North,Javier,5,"32,00"
+ORD-10867,19-09-2026,  Wireless Mouse ,East,Javier,1,"24,90"
+ORD-10869,Apr 21 2026,  Webcam HD ,west,Marta,1,"49,90"
+ORD-10434,2026-03-07,Mechanical  Keyboard,east,Lucía,1,79.00 €
+ORD-10680,Mar 20 2026,  Wireless Mouse ,South,Luis,2,€24.90
+ORD-10703,15-08-2026,WEBCAM HD,West,Ana,1,49.90 €
+ORD-10168,2026-02-05,Mechanical Keyboard,West,Javier,2,"79,00"
+ORD-10029,25/02/2026,MECHANICAL KEYBOARD,west,Luis,2,79.00 €
+ORD-10176,2026-02-06,"  27"" Monitor ",North,Javier,1,€219.00
+ORD-10250,07/07/2026,Mechanical  Keyboard,east,Lucía,1,79.00
+ORD-10405,14-03-2026,Webcam HD,North,Luis,5,"49,90"
+ORD-11029,02/08/2026,Mechanical  Keyboard,East,Javier,3,"79,00"
+ORD-10690,15-04-2026,Laptop  Stand,west,Lucía,3,32.00 €
+ORD-10376,Sep 23 2026,Webcam HD,North,Marta,5,49.90
+ORD-10942,2026-01-11,Webcam HD,West,Marta,2,"49,90"
+ORD-10209,May 04 2026,LAPTOP STAND,South,Lucía,1,32.00
+ORD-10396,2026-03-01,Mechanical Keyboard,North,Luis,1,"79,00"
+ORD-10766,03-06-2026,  Laptop Stand ,south,Ana,2,32.00
+ORD-10795,26/05/2026,USB-C Hub,North,Lucía,1,39.50
+ORD-10604,15-05-2026,Mechanical Keyboard,east,Marta,1,79.00 €
+ORD-10450,2026-04-26,USB-C HUB,South,Ana,3,€39.50
+ORD-10219,2026-05-31,USB-C Hub,south,Marta,1,"39,50"
+ORD-10348,Apr 12 2026,"  27"" Monitor ",North,Luis,1,€219.00
+ORD-10906,2026-03-10,Wireless Mouse,South,Javier,3,24.90
+ORD-10141,2026-01-08,  USB-C Hub ,south,Marta,2,"39,50"
+ORD-10661,Apr 14 2026,WIRELESS MOUSE,South,Ana,2,"24,90"
+ORD-10996,2026-01-27,USB-C Hub,east,Javier,5,"39,50"
+ORD-10504,2026-05-18,webcam hd,south,Luis,1,"49,90"
+ORD-10588,May 10 2026,USB-C  Hub,south,Lucía,1,"39,50"
+ORD-10063,Jan 03 2026,WIRELESS MOUSE,East,Lucía,2,24.90
+ORD-10624,25-06-2026,mechanical keyboard,north,Marta,2,"79,00"
+ORD-10586,2026-05-12,Mechanical Keyboard,South,Lucía,1,"79,00"
+ORD-10324,14/07/2026,  Webcam HD ,south,Marta,1,49.90
+ORD-10874,2026-08-26,Mechanical Keyboard,East,,1,"79,00"
+ORD-10614,Jul 07 2026,  Mechanical Keyboard ,West,Javier,3,€79.00
+ORD-10100,2026-05-16,WEBCAM HD,West,Luis,2,49.90
+ORD-11184,29/09/2026,usb-c hub,west,Lucía,3,"39,50"
+ORD-10321,29-04-2026,Wireless  Mouse,east,Marta,1,€24.90
+ORD-10994,Mar 17 2026,"27"" Monitor",South,Luis,1,"219,00"
+ORD-10340,Jul 24 2026,USB-C Hub,North,Ana,1,39.50 €
+ORD-10011,28-04-2026,  Wireless Mouse ,north,Ana,1,€24.90
+ORD-10571,2026-07-07,Laptop  Stand,north,Javier,1,"32,00"
+ORD-10997,May 29 2026,  Wireless Mouse ,west,Lucía,2,"24,90"
+ORD-10212,2026-06-20,mechanical keyboard,south,Luis,5,"79,00"
+ORD-10307,May 12 2026,"  27"" Monitor ",East,Marta,1,219.00 €
+ORD-11013,13-02-2026,  USB-C Hub ,south,Luis,1,"39,50"
+ORD-10827,28-01-2026,webcam hd,West,,1,€49.90
+ORD-10147,Apr 22 2026,"27"" MONITOR",south,Ana,3,€219.00
+ORD-10778,2026-05-06,"27""  Monitor",north,Lucía,1,€219.00
+ORD-10812,2026-01-22,"27"" MONITOR",west,Lucía,1,219.00 €
+ORD-10495,31/08/2026,WEBCAM HD,North,Marta,2,49.90
+ORD-10266,Jan 27 2026,wireless mouse,west,Ana,3,24.90 €
+ORD-10248,25/07/2026,wireless mouse,north,Ana,2,"24,90"
+ORD-10610,Jan 28 2026,  Laptop Stand ,North,Lucía,1,"32,00"
+ORD-10148,Jul 03 2026,wireless mouse,West,Ana,5,"24,90"
+ORD-10949,02/01/2026,"27"" monitor",south,Lucía,1,219.00
+ORD-10927,03/04/2026,Wireless  Mouse,west,Luis,3,"24,90"
+ORD-10842,09-01-2026,"27"" MONITOR",west,Lucía,3,219.00
+ORD-10998,2026-04-29,Webcam  HD,North,Javier,2,€49.90
+ORD-10990,2026-01-03,"27"" Monitor",East,Javier,2,"219,00"
+ORD-11060,30-06-2026,"  27"" Monitor ",East,Ana,1,"219,00"
+ORD-10883,23-09-2026,  USB-C Hub ,east,Marta,1,39.50
+ORD-10592,Jan 27 2026,Mechanical Keyboard,South,Luis,2,"79,00"
+ORD-10493,12-07-2026,Webcam  HD,North,Lucía,1,49.90
+ORD-10528,Sep 03 2026,Laptop  Stand,north,Javier,5,32.00
+ORD-10463,Jul 28 2026,Webcam  HD,south,Ana,2,49.90 €
+ORD-10970,2026-08-23,"27"" MONITOR",,Marta,1,219.00 €
+ORD-10798,Aug 21 2026,usb-c hub,north,Luis,5,39.50
+ORD-10268,28-05-2026,USB-C Hub,South,Lucía,1,39.50
+ORD-10302,23-07-2026,mechanical keyboard,east,,2,€79.00
+ORD-10475,07/04/2026,Mechanical Keyboard,east,Marta,3,79.00 €
+ORD-10881,18/02/2026,Laptop  Stand,south,Marta,5,€32.00
+ORD-10992,2026-01-08,Mechanical Keyboard,West,Ana,1,"79,00"
+ORD-10081,2026-03-03,laptop stand,east,Marta,1,€32.00
+ORD-11178,2026-03-05,usb-c hub,North,,1,"39,50"
+ORD-10106,15-06-2026,Laptop Stand,South,Luis,3,32.00
+ORD-10281,Mar 26 2026,USB-C Hub,West,Lucía,2,39.50
+ORD-10719,03-08-2026,  USB-C Hub ,north,Luis,1,39.50 €
+ORD-11030,2026-03-08,WEBCAM HD,west,Javier,1,49.90 €
+ORD-10638,26-05-2026,  Webcam HD ,West,Ana,1,49.90 €
+ORD-11101,11-09-2026,"27""  Monitor",east,Lucía,3,219.00
+ORD-11115,Jun 23 2026,  Mechanical Keyboard ,east,Lucía,1,€79.00
+ORD-11118,Jun 18 2026,laptop stand,South,Luis,1,32.00 €
+ORD-10320,19/06/2026,"27"" Monitor",south,Ana,1,"219,00"
+ORD-10691,2026-01-10,"27"" monitor",,Ana,1,219.00 €
+ORD-10401,05/01/2026,usb-c hub,north,Lucía,1,"39,50"
+ORD-11034,06/06/2026,USB-C HUB,west,Ana,1,€39.50
+ORD-10077,16/01/2026,Mechanical Keyboard,East,Luis,1,"79,00"
+ORD-10635,Jun 03 2026,wireless mouse,West,Ana,2,€24.90
+ORD-10908,Feb 09 2026,  Webcam HD ,West,Marta,3,"49,90"
+ORD-10413,03/06/2026,USB-C Hub,east,Javier,2,39.50 €
+ORD-10430,24/06/2026,webcam hd,North,Ana,1,49.90 €
+ORD-10727,2026-08-07,laptop stand,west,Luis,1,€32.00
+ORD-10025,2026-04-28,wireless mouse,South,Lucía,1,€24.90
+ORD-10838,11/08/2026,Laptop  Stand,East,Lucía,1,"32,00"
+ORD-11110,14-05-2026,wireless mouse,south,Javier,2,24.90
+ORD-10050,29/08/2026,  Mechanical Keyboard ,south,Marta,5,79.00 €
+ORD-10899,Aug 16 2026,mechanical keyboard,east,Luis,5,79.00
+ORD-11082,31-01-2026,Mechanical  Keyboard,east,Lucía,3,€79.00
+ORD-10847,2026-07-07,Mechanical  Keyboard,West,Luis,1,79.00 €
+ORD-11193,12/08/2026,mechanical keyboard,South,Marta,1,79.00
+ORD-10733,29/06/2026,Laptop Stand,West,Marta,1,32.00
+ORD-10221,2026-08-11,USB-C Hub,east,Marta,2,39.50 €
+ORD-10384,2026-09-13,Webcam  HD,North,Marta,1,49.90 €
+ORD-10961,2026-02-07,Wireless Mouse,south,Luis,2,€24.90
+ORD-10958,Aug 03 2026,MECHANICAL KEYBOARD,North,Marta,1,79.00 €
+ORD-11124,Apr 14 2026,laptop stand,West,Ana,1,"32,00"
+ORD-10119,Mar 18 2026,"27"" monitor",south,Lucía,5,"219,00"
+ORD-10880,25-01-2026,USB-C  Hub,South,Lucía,1,39.50 €
+ORD-10238,16-01-2026,"27"" monitor",west,Luis,5,"219,00"
+ORD-10445,Feb 19 2026,Wireless  Mouse,west,Luis,1,€24.90
+ORD-10233,Apr 04 2026,Mechanical  Keyboard,North,Ana,2,79.00 €
+ORD-10498,25-09-2026,  Mechanical Keyboard ,north,Luis,1,"79,00"
+ORD-10177,Aug 08 2026,  Laptop Stand ,north,Ana,2,32.00
+ORD-11071,08/02/2026,MECHANICAL KEYBOARD,south,Marta,1,79.00
+ORD-10399,2026-07-10,WIRELESS MOUSE,West,Lucía,1,"24,90"
+ORD-10315,Feb 17 2026,"  27"" Monitor ",west,Ana,3,219.00
+ORD-10736,11/03/2026,"  27"" Monitor ",south,Javier,5,"219,00"
+ORD-10026,06/09/2026,Mechanical  Keyboard,west,Luis,5,"79,00"
+ORD-10677,Jan 20 2026,Webcam HD,North,Marta,1,"49,90"
+ORD-11022,May 04 2026,USB-C  Hub,South,Ana,5,€39.50
+ORD-10947,2026-05-14,laptop stand,east,Lucía,3,€32.00
+ORD-11049,Jul 28 2026,Wireless Mouse,east,Luis,1,€24.90
+ORD-10709,May 07 2026,"27"" Monitor",east,Marta,2,219.00
+ORD-11129,03-05-2026,Mechanical  Keyboard,north,Ana,3,79.00 €
+ORD-10067,09-02-2026,WEBCAM HD,north,Marta,1,49.90
+,,,,,,
+ORD-10894,2026-01-03,WEBCAM HD,west,Marta,3,49.90 €
+ORD-10702,05/04/2026,USB-C Hub,south,Javier,2,€39.50
+ORD-10956,02/03/2026,MECHANICAL KEYBOARD,north,Marta,3,"79,00"
+ORD-10608,2026-01-04,  Laptop Stand ,south,Lucía,1,"32,00"
+ORD-10767,19/09/2026,"27"" monitor",North,Marta,2,219.00
+ORD-10131,05-01-2026,"27""  Monitor",East,Ana,2,€219.00
+ORD-10926,10-08-2026,WEBCAM HD,east,Javier,1,"49,90"
+ORD-11158,06/05/2026,"27""  Monitor",West,Marta,1,"219,00"
+ORD-10791,10-08-2026,laptop stand,north,Marta,5,32.00
+ORD-10678,02/08/2026,Wireless  Mouse,North,Javier,1,€24.90
+ORD-10414,2026-02-18,"27"" MONITOR",South,Ana,1,219.00 €
+ORD-10580,27-03-2026,  Webcam HD ,South,Luis,2,"49,90"
+ORD-10388,12/02/2026,webcam hd,South,Marta,1,49.90 €
+ORD-10509,07/01/2026,webcam hd,South,Javier,3,49.90 €
+ORD-10354,06/04/2026,"27""  Monitor",East,Javier,1,219.00 €
+ORD-10662,08-09-2026,Laptop Stand,south,Luis,2,32.00
+ORD-10484,11-02-2026,"27"" MONITOR",south,Ana,1,"219,00"
+ORD-10031,08/01/2026,WIRELESS MOUSE,east,Javier,2,24.90 €
+ORD-10035,2026-01-30,LAPTOP STAND,South,Lucía,1,32.00 €
+ORD-11142,17/06/2026,USB-C  Hub,West,Lucía,2,"39,50"
+ORD-11104,Feb 13 2026,USB-C  Hub,south,Luis,2,39.50
+ORD-10461,Jun 09 2026,USB-C Hub,West,Luis,1,"39,50"
+ORD-11161,Jan 11 2026,"27"" Monitor",north,Lucía,2,219.00 €
+ORD-10641,22-02-2026,USB-C HUB,west,Ana,1,39.50
+ORD-10432,22-06-2026,USB-C HUB,East,Javier,5,"39,50"
+ORD-10548,May 13 2026,"  27"" Monitor ",east,Javier,1,219.00
+ORD-10850,2026-08-20,"  27"" Monitor ",north,Javier,2,€219.00
+ORD-11037,18-03-2026,Webcam HD,east,Javier,1,"49,90"
+ORD-10090,06-08-2026,webcam hd,west,Marta,1,€49.90
+ORD-10534,11/04/2026,webcam hd,west,Luis,3,49.90
+ORD-10147,Apr 22 2026,"27"" MONITOR",south,Ana,3,€219.00
+ORD-10792,May 11 2026,  Webcam HD ,West,Lucía,5,49.90 €
+ORD-10017,Aug 11 2026,Mechanical Keyboard,north,Lucía,5,79.00 €
+ORD-10892,28/06/2026,USB-C  Hub,West,Lucía,2,39.50
+ORD-10371,2026-06-25,Webcam HD,South,Javier,1,49.90
+ORD-10711,Jan 21 2026,Laptop  Stand,North,Luis,1,"32,00"
+ORD-11187,Feb 11 2026,  USB-C Hub ,South,Javier,1,39.50 €
+ORD-10607,14-04-2026,MECHANICAL KEYBOARD,South,Ana,1,"79,00"
+ORD-10220,Aug 07 2026,mechanical keyboard,west,Ana,3,€79.00
+ORD-10458,Jul 30 2026,  USB-C Hub ,west,Ana,1,€39.50
+ORD-11059,2026-07-21,Laptop Stand,North,Javier,3,32.00
+ORD-11057,Jun 24 2026,Mechanical  Keyboard,south,Ana,3,79.00 €
+ORD-10347,Aug 25 2026,MECHANICAL KEYBOARD,East,Javier,2,79.00
+ORD-10230,14-01-2026,  USB-C Hub ,East,Lucía,1,39.50
+ORD-10687,23/01/2026,mechanical keyboard,East,Ana,1,79.00
+ORD-10810,13/03/2026,Wireless Mouse,West,Javier,2,24.90
+ORD-10127,2026-06-03,wireless mouse,North,Marta,1,€24.90
+ORD-11015,16/01/2026,"27"" Monitor",South,Ana,1,€219.00
+ORD-11024,03-01-2026,"27"" MONITOR",West,Marta,1,€219.00
+ORD-11176,2026-04-06,MECHANICAL KEYBOARD,West,Marta,5,"79,00"
+ORD-11099,2026-08-29,WEBCAM HD,east,Lucía,1,"49,90"
+ORD-10684,05-05-2026,  Wireless Mouse ,south,Lucía,1,24.90
+ORD-10331,04/07/2026,  USB-C Hub ,West,Javier,1,39.50 €
+ORD-10300,21/01/2026,Wireless  Mouse,West,Javier,1,€24.90
+ORD-10061,2026-03-17,WIRELESS MOUSE,west,Lucía,5,24.90
+ORD-10501,12/05/2026,  Webcam HD ,north,Marta,2,49.90
+ORD-10995,2026-09-06,"  27"" Monitor ",West,Luis,1,"219,00"
+ORD-10198,08/06/2026,"27"" monitor",west,Javier,5,€219.00
+ORD-10264,03/09/2026,Mechanical  Keyboard,north,Lucía,3,€79.00
+ORD-10637,13-07-2026,Mechanical Keyboard,east,Luis,2,€79.00
+ORD-10897,Sep 24 2026,mechanical keyboard,north,Lucía,3,79.00
+ORD-10771,20/03/2026,USB-C HUB,,Ana,3,39.50
+ORD-10092,Apr 09 2026,mechanical keyboard,north,Ana,5,79.00 €
+ORD-10453,15/09/2026,Laptop Stand,west,Luis,1,32.00 €
+ORD-10518,01-07-2026,Webcam  HD,south,Ana,1,49.90 €
+ORD-11180,22/01/2026,Wireless  Mouse,North,Javier,2,€24.90
+ORD-10201,26/05/2026,wireless mouse,west,Lucía,1,"24,90"
+ORD-10395,13/09/2026,laptop stand,East,Marta,5,32.00
+ORD-10802,15-08-2026,Webcam HD,North,Ana,1,€49.90
+ORD-10977,17-02-2026,"27"" MONITOR",West,Javier,1,219.00
+ORD-10753,02-07-2026,USB-C HUB,South,Javier,2,39.50 €
+ORD-10617,2026-03-18,"27"" MONITOR",east,Javier,1,€219.00
+ORD-10155,20/08/2026,Laptop  Stand,North,Lucía,1,"32,00"
+ORD-11107,2026-04-30,usb-c hub,South,Marta,5,39.50
+ORD-11027,01/02/2026,"  27"" Monitor ",West,Javier,1,€219.00
+ORD-10128,09/08/2026,Mechanical  Keyboard,east,Lucía,3,79.00 €
+ORD-10245,Jan 12 2026,Wireless  Mouse,west,Luis,1,€24.90
+ORD-10712,23-07-2026,  USB-C Hub ,East,Javier,1,39.50
+ORD-10919,Jan 20 2026,"27""  Monitor",east,Marta,1,"219,00"
+ORD-11007,03/03/2026,  Laptop Stand ,north,Marta,5,€32.00
+ORD-10558,01-05-2026,Wireless  Mouse,South,Luis,1,"24,90"
+,,,,,,
+ORD-11174,26-09-2026,"  27"" Monitor ",East,Luis,1,219.00 €
+ORD-11073,31-08-2026,Mechanical Keyboard,south,Lucía,5,79.00 €
+ORD-10423,18/07/2026,USB-C Hub,south,Lucía,1,39.50
+ORD-10059,Aug 27 2026,"27"" MONITOR",west,Luis,3,219.00
+ORD-10183,Aug 26 2026,Laptop  Stand,south,Marta,1,"32,00"
+ORD-10333,09/08/2026,webcam hd,south,Lucía,3,49.90 €
+ORD-10793,24/09/2026,usb-c hub,North,Ana,5,39.50
+ORD-10226,May 15 2026,USB-C HUB,north,Javier,1,39.50
+ORD-11127,20/07/2026,  Laptop Stand ,West,Luis,2,"32,00"
+ORD-10653,13/08/2026,Webcam HD,east,Marta,3,49.90 €
+ORD-10174,19-04-2026,mechanical keyboard,south,Ana,1,"79,00"
+ORD-10038,09-03-2026,  Webcam HD ,south,Ana,1,"49,90"
+ORD-10796,2026-04-22,Laptop Stand,South,Lucía,1,"32,00"
+ORD-11128,23/08/2026,"27""  Monitor",South,Javier,3,219.00
+ORD-10567,23/03/2026,  Mechanical Keyboard ,south,Ana,1,"79,00"
+ORD-10467,May 04 2026,USB-C  Hub,west,Luis,5,"39,50"
+ORD-11017,30-01-2026,  Webcam HD ,east,Lucía,5,€49.90
+ORD-10855,29-04-2026,  Laptop Stand ,south,Marta,2,"32,00"
+ORD-10543,13-01-2026,Laptop  Stand,west,Javier,1,€32.00
+ORD-10097,28/01/2026,Mechanical  Keyboard,north,Ana,1,79.00
+ORD-10426,01/07/2026,MECHANICAL KEYBOARD,south,Marta,2,79.00
+ORD-10473,22-02-2026,Wireless  Mouse,north,Marta,3,24.90
+ORD-10581,2026-03-09,WIRELESS MOUSE,east,Luis,2,24.90
+ORD-10946,Sep 09 2026,"27"" monitor",east,Ana,5,219.00 €
+ORD-10259,27-09-2026,"27"" MONITOR",west,Lucía,1,€219.00
+ORD-10051,25/04/2026,  Wireless Mouse ,south,Marta,5,24.90
+ORD-10120,22/08/2026,USB-C HUB,east,Luis,5,"39,50"
+ORD-10901,2026-07-22,"27"" Monitor",East,Javier,2,219.00
+ORD-11008,24-01-2026,LAPTOP STAND,South,Ana,2,"32,00"
+ORD-10049,30/07/2026,webcam hd,East,Ana,2,49.90
+ORD-10066,19/08/2026,usb-c hub,west,Luis,1,"39,50"
+ORD-10271,26/09/2026,"27""  Monitor",west,Marta,1,219.00
+ORD-10596,2026-03-28,webcam hd,West,Ana,1,49.90
+ORD-10846,Jan 27 2026,wireless mouse,west,Lucía,1,€24.90
+ORD-10667,2026-08-01,Webcam  HD,south,Javier,3,"49,90"
+ORD-10620,14-05-2026,USB-C  Hub,north,Marta,1,"39,50"
+ORD-10854,Jun 27 2026,"27"" Monitor",north,Luis,1,219.00
+ORD-10294,Sep 24 2026,mechanical keyboard,north,Ana,2,79.00 €
+ORD-10679,26-09-2026,Wireless  Mouse,East,Marta,2,24.90 €
+ORD-10004,21-03-2026,Mechanical Keyboard,South,Javier,1,€79.00
+ORD-10804,17-05-2026,  Mechanical Keyboard ,North,Lucía,3,"79,00"
+ORD-10326,Apr 06 2026,"27""  Monitor",east,Ana,1,219.00
+ORD-10161,Jul 11 2026,Mechanical Keyboard,South,Ana,1,"79,00"
+ORD-11025,Mar 13 2026,Webcam  HD,West,Ana,1,49.90 €
+ORD-10023,Aug 13 2026,Laptop Stand,West,Luis,1,€32.00
+ORD-10247,25/02/2026,"27"" monitor",south,Javier,1,219.00
+ORD-10460,Jan 26 2026,webcam hd,south,Ana,1,€49.90
+ORD-10043,16-09-2026,"27"" Monitor",South,Javier,5,€219.00
+ORD-10137,18-01-2026,LAPTOP STAND,South,Marta,1,"32,00"
+ORD-10750,14-03-2026,Webcam  HD,West,Luis,1,€49.90
+ORD-10816,23/04/2026,  Wireless Mouse ,south,Javier,1,24.90
+ORD-10862,23/08/2026,USB-C Hub,south,Marta,2,€39.50
+ORD-10693,2026-07-04,wireless mouse,east,,2,24.90
+ORD-10096,Jan 27 2026,USB-C Hub,South,Javier,2,39.50
+ORD-10554,13/02/2026,usb-c hub,West,Javier,3,39.50 €
+,,,,,,
+ORD-10322,19/08/2026,"27"" monitor",east,Javier,1,"219,00"
+ORD-10033,May 27 2026,"27"" MONITOR",West,Marta,1,219.00
+ORD-10379,2026-03-15,Wireless  Mouse,East,Javier,1,24.90 €
+ORD-10277,23-03-2026,"27"" Monitor",north,Marta,2,219.00 €
+ORD-10083,20/03/2026,"27""  Monitor",north,Lucía,5,"219,00"
+ORD-11156,2026-02-05,MECHANICAL KEYBOARD,West,Luis,1,79.00 €
+ORD-10122,06-03-2026,Laptop Stand,west,Ana,2,"32,00"
+ORD-10904,Jul 24 2026,USB-C  Hub,east,Javier,2,€39.50
+ORD-10171,Aug 06 2026,"  27"" Monitor ",north,Luis,5,219.00
+ORD-11094,2026-07-14,webcam hd,West,Marta,2,49.90 €
+ORD-10821,Aug 02 2026,WEBCAM HD,West,Luis,3,€49.90
+ORD-11046,2026-06-02,"27"" monitor",East,Javier,1,€219.00
+ORD-10055,01/01/2026,laptop stand,east,Ana,3,€32.00
+ORD-10971,26/05/2026,Mechanical  Keyboard,north,Lucía,3,79.00 €
+ORD-11035,Feb 04 2026,  Wireless Mouse ,north,Lucía,2,€24.90
+ORD-10421,Jul 16 2026,MECHANICAL KEYBOARD,West,Lucía,5,79.00
+ORD-10531,2026-06-01,mechanical keyboard,west,Ana,2,79.00 €
+ORD-10381,Jul 16 2026,usb-c hub,East,Luis,1,39.50
+ORD-10873,May 29 2026,Laptop Stand,north,Lucía,1,"32,00"
+ORD-10705,2026-01-14,  USB-C Hub ,East,Lucía,5,"39,50"
+ORD-10645,07/01/2026,  Wireless Mouse ,west,Luis,3,24.90
+ORD-10160,2026-07-24,"27"" monitor",east,Marta,3,€219.00
+ORD-10707,Apr 26 2026,Wireless Mouse,north,Javier,1,24.90 €
+ORD-10239,2026-06-02,"27"" Monitor",East,Javier,2,"219,00"
+ORD-10729,2026-02-25,  Laptop Stand ,north,Javier,2,€32.00
+ORD-10343,14-03-2026,usb-c hub,west,Luis,2,"39,50"
+ORD-10634,Jun 26 2026,USB-C  Hub,North,Javier,5,"39,50"
+ORD-11199,2026-06-13,usb-c hub,west,Luis,2,€39.50
+ORD-11169,17/03/2026,USB-C  Hub,East,Ana,1,39.50
+ORD-10433,12-06-2026,MECHANICAL KEYBOARD,East,Javier,1,€79.00
+ORD-10820,2026-01-09,"27"" Monitor",North,Luis,1,€219.00
+ORD-10316,Mar 29 2026,  Wireless Mouse ,south,Lucía,5,24.90
+ORD-10205,Mar 13 2026,  Webcam HD ,North,Ana,1,€49.90
+ORD-10566,2026-07-23,USB-C HUB,East,Lucía,1,"39,50"
+ORD-10064,May 08 2026,WIRELESS MOUSE,west,Lucía,2,€24.90
+ORD-10387,23-07-2026,Laptop  Stand,east,Javier,3,"32,00"
+ORD-10267,03/01/2026,  Laptop Stand ,west,Javier,3,32.00 €
+ORD-10047,21/01/2026,USB-C HUB,South,Marta,5,"39,50"
+ORD-10139,Mar 26 2026,usb-c hub,south,Ana,2,39.50
+ORD-10960,Mar 10 2026,USB-C HUB,east,Javier,3,€39.50
+ORD-10337,Feb 05 2026,"27"" MONITOR",north,Luis,1,219.00 €
+ORD-10116,18-09-2026,  Webcam HD ,west,Javier,1,"49,90"
+ORD-11117,Jul 15 2026,Mechanical Keyboard,east,Luis,2,79.00
+ORD-10966,04-07-2026,"27"" monitor",north,Lucía,1,"219,00"
+ORD-10789,31/08/2026,USB-C  Hub,east,Ana,1,"39,50"
+ORD-10710,Sep 24 2026,  Wireless Mouse ,North,Luis,2,"24,90"
+ORD-10283,Jan 30 2026,laptop stand,North,Javier,1,32.00
+ORD-10538,09-09-2026,Laptop Stand,south,Lucía,1,32.00 €
+ORD-10216,2026-06-19,usb-c hub,east,Javier,3,"39,50"
+ORD-10980,08/07/2026,  Laptop Stand ,west,Javier,2,€32.00
+ORD-10943,08-06-2026,Webcam HD,West,Javier,2,49.90
+ORD-10082,Jan 07 2026,"27"" Monitor",east,Marta,3,"219,00"
+ORD-10257,10/06/2026,"  27"" Monitor ",West,Javier,2,"219,00"
+ORD-10088,Sep 01 2026,  Webcam HD ,North,Ana,1,49.90 €
+ORD-10309,04/01/2026,"27"" MONITOR",South,Luis,1,219.00 €
+ORD-10828,2026-08-21,Wireless Mouse,East,Luis,5,24.90
+ORD-10328,2026-07-31,"27""  Monitor",West,Lucía,2,219.00 €
+ORD-11005,2026-04-18,Laptop Stand,south,Marta,1,32.00 €
+ORD-10079,2026-03-25,USB-C  Hub,North,Marta,2,"39,50"
+ORD-10489,22-02-2026,"27"" MONITOR",South,Ana,1,€219.00
+ORD-10529,2026-09-25,  Wireless Mouse ,East,Ana,3,24.90
+ORD-10544,2026-04-09,USB-C Hub,East,Lucía,2,39.50
+ORD-10691,2026-01-10,"27"" monitor",,Ana,1,219.00 €
+ORD-10817,12/03/2026,USB-C Hub,East,Marta,1,39.50
+ORD-10172,2026-06-26,"27"" monitor",west,Lucía,3,€219.00
+ORD-10210,2026-09-27,  Laptop Stand ,west,Ana,3,"32,00"
+ORD-10110,May 28 2026,Webcam  HD,North,Javier,1,€49.90
+ORD-11042,2026-07-25,  Laptop Stand ,North,Marta,2,32.00 €
+ORD-10357,Aug 01 2026,  Webcam HD ,East,Ana,2,49.90
+ORD-10722,Aug 21 2026,"27"" Monitor",North,Luis,2,€219.00
+ORD-10487,03/01/2026,wireless mouse,North,Marta,5,24.90 €
+ORD-10268,28-05-2026,USB-C Hub,South,Lucía,1,39.50
+ORD-11044,28/03/2026,USB-C HUB,north,Ana,1,€39.50
+ORD-10788,Sep 01 2026,USB-C  Hub,West,Javier,3,"39,50"
+ORD-10213,03/09/2026,WEBCAM HD,South,Javier,1,€49.90
+ORD-10972,03/01/2026,  Laptop Stand ,South,Luis,5,"32,00"
+ORD-10998,2026-04-29,Webcam  HD,North,Javier,2,€49.90
+ORD-10488,2026-01-10,WEBCAM HD,West,Marta,1,49.90 €
+ORD-10443,16/01/2026,"27""  Monitor",east,Luis,1,219.00
+ORD-10664,2026-07-08,Webcam  HD,north,Lucía,1,49.90
+ORD-10072,2026-08-12,"  27"" Monitor ",south,Javier,3,219.00 €
+ORD-10187,19/08/2026,laptop stand,west,Lucía,1,32.00
+ORD-10478,03-07-2026,LAPTOP STAND,East,Marta,1,"32,00"
+ORD-10015,2026-08-05,  Laptop Stand ,east,Lucía,2,€32.00
+ORD-10801,09/09/2026,Wireless  Mouse,east,Luis,2,24.90
+ORD-10304,13-06-2026,mechanical keyboard,east,,2,79.00 €
+ORD-10472,24/08/2026,  USB-C Hub ,north,Lucía,5,"39,50"
+ORD-10037,25-09-2026,USB-C HUB,south,Luis,1,"39,50"
+ORD-10848,Feb 28 2026,Webcam  HD,West,Luis,1,€49.90
+ORD-10556,Jan 28 2026,Laptop  Stand,South,Marta,3,32.00
+ORD-10054,2026-06-10,"  27"" Monitor ",West,Marta,1,"219,00"
+ORD-10419,May 21 2026,USB-C HUB,North,Lucía,2,39.50 €
+ORD-10027,2026-07-28,Mechanical Keyboard,east,Marta,2,"79,00"
+ORD-10987,Apr 02 2026,Mechanical Keyboard,South,Javier,3,€79.00
+ORD-10740,07-06-2026,Webcam HD,north,Javier,1,"49,90"
+ORD-10390,03/05/2026,Wireless Mouse,east,Ana,2,24.90
+ORD-11173,07/06/2026,  Wireless Mouse ,North,Ana,1,"24,90"
+ORD-10375,18/02/2026,  Wireless Mouse ,South,Luis,2,24.90 €
+ORD-10602,May 05 2026,  USB-C Hub ,North,Javier,1,€39.50
+ORD-10400,05-02-2026,"27"" monitor",,Ana,2,"219,00"
+ORD-10360,2026-07-07,  Laptop Stand ,West,Javier,1,32.00 €
+ORD-10356,Mar 11 2026,Mechanical  Keyboard,west,Javier,3,"79,00"
+ORD-10060,26-05-2026,Laptop Stand,West,Marta,1,32.00 €
+ORD-10720,14-04-2026,Wireless Mouse,west,Javier,5,"24,90"
+ORD-10382,08-05-2026,Laptop Stand,north,Luis,2,32.00 €
+ORD-11053,May 09 2026,webcam hd,West,Lucía,5,€49.90
+ORD-10777,14-03-2026,  Webcam HD ,South,Lucía,2,49.90
+ORD-10107,2026-05-18,LAPTOP STAND,,Lucía,3,"32,00"
+ORD-10124,Jun 23 2026,Laptop Stand,south,Lucía,2,€32.00
+ORD-10427,30/06/2026,Laptop  Stand,West,Javier,2,€32.00
+ORD-10768,01-01-2026,Webcam HD,north,Ana,1,"49,90"
+ORD-10589,Apr 15 2026,"27"" MONITOR",south,Lucía,2,"219,00"
+ORD-10235,10/02/2026,USB-C  Hub,north,Luis,3,€39.50
+ORD-10535,2026-04-06,  Mechanical Keyboard ,North,Javier,1,€79.00
+ORD-10591,17/08/2026,Webcam HD,West,Lucía,2,€49.90
+ORD-10482,2026-08-30,  Mechanical Keyboard ,north,Javier,1,79.00 €
+ORD-10599,26/04/2026,  Laptop Stand ,east,Lucía,1,€32.00
+ORD-10748,2026-08-14,webcam hd,East,Luis,1,49.90
+ORD-10030,23/05/2026,"27"" Monitor",west,Lucía,1,219.00
+ORD-10056,2026-06-10,webcam hd,north,Javier,1,"49,90"
+ORD-10068,12/03/2026,  Mechanical Keyboard ,East,Luis,1,"79,00"
+ORD-10887,24/04/2026,MECHANICAL KEYBOARD,north,Luis,1,79.00 €
+ORD-10285,Jan 31 2026,Wireless Mouse,north,Javier,1,24.90 €
+ORD-10416,2026-02-08,WIRELESS MOUSE,west,Luis,1,€24.90
+ORD-10879,2026-07-02,mechanical keyboard,south,Javier,3,€79.00
+ORD-10928,May 18 2026,Webcam  HD,North,Lucía,1,€49.90
+ORD-10486,Mar 08 2026,  Laptop Stand ,east,Javier,2,"32,00"
+ORD-10940,09-09-2026,Laptop Stand,south,Lucía,2,"32,00"
+ORD-10107,2026-05-18,LAPTOP STAND,,Lucía,3,"32,00"
+ORD-10517,Jul 06 2026,Webcam HD,South,Luis,1,€49.90
+ORD-10803,Aug 17 2026,WIRELESS MOUSE,North,Ana,-3,"24,90"
+ORD-11010,02-03-2026,MECHANICAL KEYBOARD,north,Javier,5,"79,00"
+ORD-10962,24-01-2026,Wireless  Mouse,east,Marta,2,€24.90
+ORD-10492,2026-04-19,Webcam  HD,East,Ana,1,49.90
+ORD-10622,Sep 19 2026,"27"" Monitor",east,Lucía,1,"219,00"
+ORD-10397,06/07/2026,"27"" MONITOR",North,Lucía,5,"219,00"
+ORD-11119,Jan 17 2026,Webcam HD,East,Luis,1,"49,90"
+ORD-10860,2026-04-05,mechanical keyboard,south,Luis,1,"79,00"
+ORD-10655,08/04/2026,Laptop  Stand,south,Marta,3,"32,00"
+ORD-10366,Jun 14 2026,  Mechanical Keyboard ,East,Lucía,3,€79.00
+ORD-10297,04-05-2026,MECHANICAL KEYBOARD,west,Ana,2,"79,00"
+ORD-10749,2026-01-08,LAPTOP STAND,south,Lucía,1,€32.00
+ORD-11175,Mar 10 2026,MECHANICAL KEYBOARD,South,Javier,2,79.00 €
+ORD-10861,25-03-2026,Laptop Stand,North,Javier,2,32.00 €
+ORD-10974,2026-06-15,Mechanical Keyboard,west,Javier,2,€79.00
+ORD-10570,22-02-2026,webcam hd,East,Javier,3,"49,90"
+ORD-10921,08/09/2026,wireless mouse,west,Lucía,5,€24.90
+ORD-10800,2026-04-02,"  27"" Monitor ",West,Lucía,2,219.00 €
+ORD-11155,24/09/2026,  USB-C Hub ,North,Ana,5,"39,50"
+ORD-11089,03-05-2026,"  27"" Monitor ",West,Javier,1,219.00
+ORD-10572,Jun 30 2026,  USB-C Hub ,North,Lucía,1,"39,50"
+ORD-10281,Mar 26 2026,USB-C Hub,West,Lucía,2,39.50
+ORD-10214,14/04/2026,Wireless Mouse,south,Marta,2,"24,90"
+ORD-10730,13-05-2026,LAPTOP STAND,west,Lucía,3,"32,00"
+ORD-10125,2026-09-07,Laptop  Stand,South,Luis,3,€32.00
+ORD-11165,16-07-2026,"27""  Monitor",South,Javier,1,219.00
+ORD-11031,Jul 09 2026,Wireless Mouse,South,Marta,2,€24.90
+ORD-10070,2026-07-19,Laptop  Stand,east,Javier,1,€32.00
+ORD-10713,Sep 22 2026,  Mechanical Keyboard ,South,Lucía,1,79.00 €
+ORD-10325,Jan 03 2026,usb-c hub,north,Ana,1,39.50
+ORD-10406,2026-07-10,"27""  Monitor",South,Lucía,1,"219,00"
+ORD-10737,29-01-2026,Laptop  Stand,south,Lucía,2,32.00
+ORD-10623,16-03-2026,  Mechanical Keyboard ,east,Ana,1,79.00 €
+ORD-11108,2026-05-22,Mechanical Keyboard,South,Marta,1,79.00 €
+ORD-10246,25-01-2026,  Wireless Mouse ,west,Marta,2,24.90
+ORD-10790,15-07-2026,Webcam  HD,North,Ana,2,€49.90
+ORD-10858,24-03-2026,WEBCAM HD,East,Luis,1,49.90 €
+ORD-10479,07-03-2026,Webcam  HD,East,Marta,3,49.90
+ORD-11016,Jul 25 2026,Mechanical Keyboard,east,Ana,3,79.00 €
+ORD-10745,2026-08-24,"27"" Monitor",north,Ana,3,219.00
+ORD-10392,25-03-2026,"27""  Monitor",north,Luis,1,219.00 €
+ORD-10826,Mar 18 2026,  Webcam HD ,East,Luis,3,49.90
+ORD-10065,Aug 15 2026,Laptop  Stand,west,Luis,3,"32,00"
+ORD-10948,2026-08-21,Webcam HD,East,Javier,5,49.90 €
+ORD-10668,23/02/2026,Mechanical  Keyboard,east,Lucía,1,79.00 €
+ORD-10074,11/03/2026,"27"" Monitor",north,Javier,1,219.00 €
+ORD-10561,12-08-2026,USB-C HUB,south,Javier,2,"39,50"
+ORD-10780,04-08-2026,usb-c hub,East,Ana,3,€39.50
+ORD-10218,Feb 12 2026,Webcam HD,east,Lucía,5,49.90 €
+ORD-10295,Aug 07 2026,Laptop Stand,south,Javier,5,€32.00
+ORD-10552,Mar 11 2026,Webcam  HD,north,Luis,1,€49.90
+ORD-10034,01-02-2026,Webcam HD,North,Lucía,2,49.90 €
+ORD-10823,Apr 03 2026,Webcam  HD,South,Marta,1,"49,90"
+ORD-10244,Apr 08 2026,Mechanical  Keyboard,west,Javier,1,"79,00"
+ORD-10402,Jul 08 2026,LAPTOP STAND,West,Luis,1,"32,00"
+ORD-10704,14-01-2026,Laptop  Stand,West,Lucía,1,32.00 €
+ORD-10519,Sep 10 2026,Mechanical Keyboard,north,Lucía,1,79.00 €
+ORD-10228,2026-06-27,Webcam  HD,north,Marta,5,49.90 €
+ORD-10199,Jul 15 2026,LAPTOP STAND,West,Lucía,1,€32.00
+ORD-10480,24/04/2026,usb-c hub,east,Marta,1,€39.50
+ORD-10686,06-06-2026,Mechanical  Keyboard,west,Lucía,1,"79,00"
+ORD-11182,11-06-2026,  Mechanical Keyboard ,east,Lucía,1,€79.00
+ORD-11122,Mar 08 2026,  Laptop Stand ,South,Javier,5,32.00 €
+ORD-10900,01-09-2026,WEBCAM HD,North,Javier,3,49.90
+ORD-11090,2026-07-05,wireless mouse,North,Lucía,1,24.90 €
+ORD-10718,21/06/2026,LAPTOP STAND,East,Luis,5,32.00
+ORD-10784,31/03/2026,  Laptop Stand ,south,Luis,1,32.00 €
+ORD-11033,2026-05-31,"27"" MONITOR",East,Lucía,2,219.00
+ORD-10593,15-02-2026,WIRELESS MOUSE,south,Ana,2,24.90
+ORD-10834,2026-06-21,Mechanical  Keyboard,North,Marta,1,79.00
+ORD-10408,11-06-2026,"27"" monitor",west,Marta,1,219.00
+ORD-10636,Apr 07 2026,"  27"" Monitor ",West,Luis,3,"219,00"
+ORD-10464,Feb 03 2026,USB-C HUB,North,Luis,1,39.50 €
+ORD-10415,Mar 08 2026,mechanical keyboard,South,Lucía,2,€79.00
+ORD-10939,31-03-2026,  Mechanical Keyboard ,east,Marta,5,79.00
+ORD-10477,19/01/2026,laptop stand,West,Lucía,3,"32,00"
+ORD-10688,05/05/2026,laptop stand,North,Marta,3,32.00
+ORD-11067,Aug 21 2026,Wireless Mouse,south,Javier,5,"24,90"
+ORD-11171,10-05-2026,Webcam  HD,east,Lucía,1,"49,90"
+ORD-10469,26/01/2026,MECHANICAL KEYBOARD,West,Luis,1,"79,00"
+ORD-10138,31/03/2026,Mechanical  Keyboard,south,Lucía,2,€79.00
+ORD-10794,2026-01-07,"27""  Monitor",South,Javier,1,219.00 €
+ORD-10697,01-02-2026,  Webcam HD ,North,Lucía,1,49.90 €
+ORD-11076,Jan 29 2026,USB-C Hub,South,Ana,2,39.50
+ORD-10569,Sep 23 2026,  USB-C Hub ,west,Ana,1,€39.50
+ORD-10642,Mar 19 2026,WIRELESS MOUSE,south,Javier,1,"24,90"
+ORD-10319,23-07-2026,WIRELESS MOUSE,West,Lucía,5,"24,90"
+ORD-10516,22-08-2026,USB-C Hub,West,Javier,1,"39,50"
+ORD-10738,17-04-2026,laptop stand,South,Luis,1,32.00
+ORD-10696,10-01-2026,usb-c hub,north,Luis,2,€39.50
+ORD-10457,2026-03-17,Laptop Stand,South,Marta,5,€32.00
+ORD-10773,Aug 22 2026,Webcam  HD,East,Javier,2,"49,90"
+ORD-10435,12/06/2026,Laptop  Stand,South,Javier,1,€32.00
+ORD-11132,Jan 14 2026,  Wireless Mouse ,south,Javier,5,24.90 €
+ORD-10872,Aug 01 2026,Mechanical  Keyboard,East,Luis,1,"79,00"
+ORD-11084,2026-05-30,USB-C  Hub,East,Ana,1,39.50
+ORD-11134,2026-09-06,"27"" Monitor",West,Javier,1,"219,00"
+ORD-10154,2026-09-27,  Wireless Mouse ,west,Marta,2,24.90
+ORD-10574,2026-03-22,USB-C HUB,east,Marta,3,39.50
+ORD-10979,09-09-2026,"27""  Monitor",East,Marta,3,219.00
+ORD-10910,2026-01-17,"  27"" Monitor ",west,Marta,5,"219,00"
+ORD-10671,Jul 04 2026,"  27"" Monitor ",North,Ana,1,219.00
+ORD-10341,19/09/2026,  Webcam HD ,south,Javier,2,49.90 €
+ORD-10078,28/02/2026,  Laptop Stand ,north,Marta,1,32.00
+ORD-10365,2026-03-11,"27"" monitor",East,Luis,1,219.00 €
+ORD-10757,Jun 29 2026,"27"" MONITOR",north,Marta,2,219.00 €
+ORD-11038,2026-06-23,  Laptop Stand ,north,Ana,5,32.00 €
+ORD-10540,20-04-2026,webcam hd,south,Marta,1,"49,90"
+ORD-10576,2026-01-12,MECHANICAL KEYBOARD,East,Luis,3,79.00
+ORD-11065,03/02/2026,Laptop Stand,East,Marta,2,32.00 €
+ORD-11166,17/07/2026,LAPTOP STAND,east,Marta,5,€32.00
+ORD-10115,Apr 26 2026,Wireless Mouse,East,,3,€24.90
+ORD-10578,26/05/2026,  Wireless Mouse ,west,Javier,1,24.90 €
+ORD-10965,14-05-2026,Wireless Mouse,East,Javier,5,€24.90
+ORD-11159,Apr 14 2026,USB-C Hub,south,Javier,2,39.50 €
+ORD-10361,Jun 02 2026,wireless mouse,south,Ana,2,24.90
+ORD-10150,05/05/2026,Mechanical Keyboard,West,Lucía,1,79.00 €
+ORD-11154,2026-04-16,LAPTOP STAND,West,Lucía,5,"32,00"
+ORD-10896,Sep 21 2026,Mechanical Keyboard,south,Ana,2,79.00
+ORD-10232,2026-03-06,  USB-C Hub ,west,Lucía,1,39.50 €
+ORD-10024,11/01/2026,Laptop  Stand,West,Ana,1,32.00
+ORD-10669,15-08-2026,USB-C  Hub,south,Marta,2,"39,50"
+ORD-10652,2026-03-20,WEBCAM HD,west,Luis,1,€49.90
+ORD-10145,18-07-2026,"27""  Monitor",east,Lucía,3,219.00 €
+ORD-10425,21/02/2026,mechanical keyboard,North,Luis,2,"79,00"
+ORD-10312,May 27 2026,WIRELESS MOUSE,South,Ana,2,24.90 €
+ORD-10663,Jan 07 2026,Mechanical Keyboard,west,Ana,1,"79,00"
+ORD-11135,23/05/2026,Mechanical Keyboard,South,Luis,1,79.00
+ORD-10884,22/04/2026,MECHANICAL KEYBOARD,South,Javier,2,79.00
+ORD-10045,2026-08-07,Laptop Stand,South,Luis,2,32.00
+ORD-11113,Aug 08 2026,WEBCAM HD,west,Javier,5,49.90
+ORD-10973,2026-02-18,usb-c hub,South,Javier,1,39.50
+ORD-11040,28/01/2026,  Laptop Stand ,North,Ana,3,32.00 €
+ORD-10057,01/06/2026,LAPTOP STAND,east,Javier,3,32.00 €
+ORD-10249,2026-05-24,LAPTOP STAND,South,Javier,1,€32.00
+ORD-11143,03/03/2026,Mechanical Keyboard,south,Marta,1,79.00
+ORD-10609,21/05/2026,"27""  Monitor",north,Javier,1,219.00 €
+ORD-10770,30/03/2026,"27"" MONITOR",east,Marta,5,"219,00"
+ORD-11149,2026-09-15,LAPTOP STAND,North,Lucía,5,32.00
+ORD-10167,2026-06-23,USB-C HUB,East,Lucía,3,"39,50"
+ORD-10454,2026-04-09,  Mechanical Keyboard ,South,Javier,1,79.00 €
+ORD-10877,Sep 04 2026,laptop stand,west,Ana,1,32.00
+ORD-10142,10/07/2026,  Wireless Mouse ,North,Lucía,2,€24.90
+ORD-10207,Jan 25 2026,Mechanical  Keyboard,west,Ana,1,"79,00"
+ORD-10087,06/01/2026,Laptop Stand,West,Javier,2,32.00 €
+ORD-10346,05/05/2026,Laptop  Stand,East,Marta,2,"32,00"
+ORD-11112,Aug 31 2026,  Mechanical Keyboard ,south,Ana,1,79.00 €
+ORD-10628,2026-09-26,wireless mouse,East,Ana,3,"24,90"
+ORD-10857,2026-07-10,USB-C HUB,south,Marta,2,39.50 €
+ORD-10885,2026-03-01,  Mechanical Keyboard ,south,Marta,3,€79.00
+ORD-10590,10-05-2026,  USB-C Hub ,East,Ana,3,39.50 €
+ORD-10673,12-01-2026,Webcam  HD,East,Ana,1,"49,90"
+ORD-11020,21/06/2026,"27""  Monitor",north,Luis,1,€219.00
+ORD-10656,21/05/2026,Laptop Stand,East,Javier,1,€32.00
+ORD-10836,29/03/2026,Laptop Stand,east,Lucía,2,32.00 €
+ORD-10732,2026-08-27,WEBCAM HD,east,Javier,1,€49.90
+ORD-10774,19-08-2026,"27"" MONITOR",East,Javier,2,219.00
+ORD-10807,07-07-2026,Laptop Stand,west,Marta,3,32.00 €
+ORD-10629,08/06/2026,mechanical keyboard,west,Luis,1,79.00 €
+ORD-10695,21-01-2026,mechanical keyboard,west,Javier,3,79.00 €
+ORD-10386,2026-01-09,Laptop Stand,north,Luis,1,32.00
+ORD-10584,29/09/2026,"  27"" Monitor ",east,Marta,2,219.00
+ORD-10012,Apr 19 2026,  Webcam HD ,west,Luis,1,49.90 €
+ORD-10140,Mar 14 2026,Mechanical  Keyboard,south,Ana,5,"79,00"
+ORD-10539,24/09/2026,  Wireless Mouse ,east,Ana,1,24.90 €
+ORD-10102,28-05-2026,  Webcam HD ,South,Luis,1,49.90 €
+ORD-10412,21/04/2026,USB-C Hub,West,Marta,2,39.50
+ORD-10465,2026-01-30,  Mechanical Keyboard ,North,Marta,3,79.00 €
+ORD-10800,2026-04-02,"  27"" Monitor ",West,Lucía,2,219.00 €
+ORD-10815,22/08/2026,Laptop  Stand,South,Ana,1,"32,00"
+ORD-10073,2026-08-28,  Mechanical Keyboard ,North,Ana,3,"79,00"
+ORD-10146,2026-08-01,  Webcam HD ,east,Marta,1,€49.90
+ORD-10326,Apr 06 2026,"27""  Monitor",east,Ana,1,219.00
+ORD-10192,Jun 29 2026,USB-C HUB,South,Marta,2,"39,50"
+ORD-11018,2026-06-10,usb-c hub,East,Javier,2,39.50 €
+ORD-10181,29/09/2026,laptop stand,south,Luis,1,32.00
+ORD-10166,14-01-2026,Laptop Stand,East,Marta,3,€32.00
+ORD-10317,28/09/2026,WIRELESS MOUSE,west,Marta,1,24.90
+ORD-10895,2026-08-14,WEBCAM HD,south,Javier,2,49.90 €
+ORD-10875,05-03-2026,  Webcam HD ,East,Javier,3,49.90 €
+ORD-11072,Jan 15 2026,"27"" Monitor",south,Marta,1,219.00
+ORD-10502,2026-02-21,mechanical keyboard,south,Marta,2,79.00
+ORD-10583,Jan 01 2026,Webcam  HD,east,Marta,5,49.90
+ORD-10843,21/08/2026,"  27"" Monitor ",East,Marta,3,"219,00"
+ORD-10988,Jun 10 2026,  Laptop Stand ,north,Marta,5,32.00 €
+ORD-10783,10-05-2026,mechanical keyboard,north,Ana,3,79.00
+ORD-10470,2026-09-20,  Wireless Mouse ,East,Luis,2,24.90
+ORD-10844,2026-01-01,  Webcam HD ,south,Lucía,1,€49.90
+ORD-10916,2026-06-24,"  27"" Monitor ",south,Marta,2,€219.00
+ORD-10095,22-02-2026,  Wireless Mouse ,west,Javier,1,24.90 €
+ORD-10814,05/05/2026,Webcam HD,East,Ana,1,49.90
+ORD-10662,08-09-2026,Laptop Stand,south,Luis,2,32.00
+ORD-11081,Aug 04 2026,"27"" MONITOR",West,Luis,5,219.00
+ORD-10878,2026-05-13,MECHANICAL KEYBOARD,south,Javier,3,79.00 €
+ORD-10237,2026-01-22,Wireless Mouse,north,Luis,5,"24,90"
+ORD-10941,07/05/2026,usb-c hub,west,Marta,5,€39.50
+ORD-10893,2026-02-20,Laptop  Stand,West,Luis,1,32.00 €
+ORD-10932,15-01-2026,  Mechanical Keyboard ,west,Lucía,2,"79,00"
+ORD-10595,13/08/2026,Wireless  Mouse,north,Luis,1,24.90 €
+ORD-10208,09/01/2026,WEBCAM HD,,Javier,1,€49.90
+ORD-10596,2026-03-28,webcam hd,West,Ana,1,49.90
+ORD-10639,May 29 2026,Wireless  Mouse,west,Marta,3,"24,90"
+ORD-10675,2026-05-12,USB-C  Hub,east,Lucía,1,39.50
+ORD-10452,01/09/2026,  Laptop Stand ,north,Ana,2,32.00
+ORD-10689,Jun 06 2026,"27"" Monitor",south,Luis,3,219.00 €
+ORD-11081,Aug 04 2026,"27"" MONITOR",West,Luis,5,219.00
+ORD-10618,07-09-2026,USB-C  Hub,North,Javier,1,39.50 €
+ORD-11172,15-02-2026,WIRELESS MOUSE,north,Luis,3,"24,90"
+ORD-10391,08/06/2026,Webcam HD,North,Luis,3,49.90
+ORD-10754,Feb 17 2026,Webcam HD,west,Marta,3,"49,90"
+ORD-10597,22-05-2026,"  27"" Monitor ",east,Lucía,1,219.00
+ORD-10550,2026-02-07,usb-c hub,north,Lucía,1,€39.50
+ORD-10016,2026-01-06,Webcam  HD,north,Marta,1,€49.90
+ORD-10262,2026-05-21,USB-C  Hub,east,Javier,5,€39.50
+ORD-10180,23-06-2026,MECHANICAL KEYBOARD,South,Lucía,3,79.00
+ORD-10968,28/01/2026,Mechanical Keyboard,west,Marta,1,"79,00"
+ORD-10224,16/08/2026,Wireless  Mouse,south,Javier,1,€24.90
+ORD-10999,Feb 02 2026,  USB-C Hub ,South,Javier,2,€39.50
+ORD-10578,26/05/2026,  Wireless Mouse ,west,Javier,1,24.90 €
+ORD-11182,11-06-2026,  Mechanical Keyboard ,east,Lucía,1,€79.00
+ORD-10650,Jan 05 2026,Wireless  Mouse,East,Marta,5,24.90
+ORD-10301,05/06/2026,WIRELESS MOUSE,South,Javier,1,24.90 €
+ORD-10626,12/01/2026,mechanical keyboard,South,Luis,1,"79,00"
+ORD-10418,Sep 12 2026,  Wireless Mouse ,East,Marta,1,24.90 €
+ORD-10660,2026-09-25,Webcam HD,East,Luis,5,49.90
+ORD-10270,20-01-2026,Wireless  Mouse,South,Marta,1,"24,90"
+ORD-10562,Jul 03 2026,USB-C  Hub,South,Luis,3,39.50
+ORD-10085,May 05 2026,"27"" monitor",North,Javier,5,€219.00
+ORD-11026,2026-07-04,"27"" MONITOR",east,Javier,1,219.00
+ORD-10377,05/08/2026,  Webcam HD ,South,Luis,2,49.90
+ORD-10763,2026-07-27,Wireless  Mouse,east,Marta,2,24.90
+ORD-11148,2026-02-04,USB-C  Hub,west,Javier,2,39.50 €
+ORD-10725,02-04-2026,Mechanical  Keyboard,East,Javier,3,€79.00
+ORD-10001,Feb 14 2026,Laptop Stand,North,Ana,1,32.00 €
+ORD-10118,24-06-2026,Laptop Stand,north,Marta,5,"32,00"
+ORD-11196,18-07-2026,"27"" monitor",East,Lucía,3,219.00 €
+ORD-11091,29/05/2026,"27""  Monitor",south,Ana,1,219.00 €
+ORD-11188,2026-03-15,LAPTOP STAND,west,Ana,1,"32,00"
+ORD-10657,2026-07-07,"27""  Monitor",east,Luis,1,€219.00
+ORD-10809,24-02-2026,  Webcam HD ,South,Javier,3,49.90 €
+ORD-10276,06-01-2026,USB-C HUB,North,Ana,2,€39.50
+ORD-10933,19/01/2026,mechanical keyboard,East,Ana,1,€79.00
+ORD-10284,2026-04-22,Laptop Stand,east,Marta,3,32.00
+ORD-10151,2026-06-18,mechanical keyboard,East,Luis,2,€79.00
+ORD-10654,May 09 2026,  Wireless Mouse ,north,Lucía,3,"24,90"
+,,,,,,
+ORD-10298,02/08/2026,  Laptop Stand ,West,Marta,1,€32.00
+ORD-10930,02/02/2026,  Webcam HD ,north,Marta,3,49.90 €
+ORD-10734,07-06-2026,USB-C Hub,South,Marta,1,"39,50"
+ORD-10708,15/04/2026,  Wireless Mouse ,west,Marta,5,"24,90"
+ORD-10229,31/03/2026,USB-C Hub,West,Luis,1,"39,50"
+ORD-10175,09/08/2026,  Mechanical Keyboard ,West,Lucía,2,€79.00
+ORD-11188,2026-03-15,LAPTOP STAND,west,Ana,1,"32,00"
+ORD-11125,02/02/2026,"27""  Monitor",south,Lucía,2,"219,00"
+ORD-10969,Aug 12 2026,Wireless Mouse,west,Marta,3,"24,90"
+ORD-10303,07-06-2026,USB-C  Hub,west,Javier,1,"39,50"
+ORD-11139,25/01/2026,"27"" MONITOR",south,Luis,1,219.00
+ORD-10310,16-09-2026,"27"" Monitor",west,Javier,1,219.00
+ORD-10265,12/03/2026,WIRELESS MOUSE,North,Lucía,1,24.90 €
+ORD-10822,Sep 25 2026,"27"" MONITOR",East,Lucía,3,219.00
+ORD-10715,2026-04-14,"27"" monitor",south,Luis,3,219.00
+ORD-10466,May 21 2026,USB-C  Hub,east,Ana,3,39.50
+ORD-11147,18/07/2026,webcam hd,East,Marta,5,"49,90"
+ORD-10984,Jun 03 2026,mechanical keyboard,North,Lucía,1,79.00
+ORD-10606,13/09/2026,WEBCAM HD,West,Marta,1,49.90 €
+ORD-10223,2026-07-05,"27""  Monitor",East,Javier,1,€219.00
+ORD-11064,Feb 26 2026,USB-C HUB,West,Lucía,3,39.50 €
+ORD-10163,04-03-2026,"  27"" Monitor ",North,Marta,2,€219.00
+ORD-10003,18-08-2026,Laptop Stand,East,Javier,1,€32.00
+ORD-10188,19-08-2026,Wireless Mouse,East,Ana,1,"24,90"
+ORD-10211,2026-07-11,usb-c hub,South,Marta,1,39.50
+ORD-10278,Apr 23 2026,MECHANICAL KEYBOARD,west,Lucía,1,"79,00"
+ORD-10786,Sep 11 2026,"27"" MONITOR",west,Luis,-1,€219.00
+ORD-10835,Aug 27 2026,"27"" MONITOR",south,Luis,1,219.00 €
+ORD-10399,2026-07-10,WIRELESS MOUSE,West,Lucía,1,"24,90"
+ORD-10575,Sep 04 2026,  Webcam HD ,West,Lucía,1,"49,90"
+ORD-10756,Jun 19 2026,  USB-C Hub ,North,Ana,2,39.50
+ORD-10521,2026-01-24,  Webcam HD ,west,Lucía,2,49.90 €
+ORD-10448,30-08-2026,"27"" Monitor",east,Luis,1,"219,00"
+ORD-10169,24-06-2026,mechanical keyboard,south,Lucía,2,79.00
+ORD-10741,May 02 2026,usb-c hub,West,,1,39.50 €
+ORD-10044,23-01-2026,WIRELESS MOUSE,north,Luis,3,"24,90"
+ORD-10545,03/02/2026,  Mechanical Keyboard ,South,Luis,2,"79,00"
+ORD-10701,09/08/2026,mechanical keyboard,South,Lucía,2,79.00
+ORD-11144,25-07-2026,Webcam HD,east,Luis,2,49.90 €
+ORD-10407,2026-02-08,  Laptop Stand ,East,Luis,1,€32.00
+ORD-10936,23/07/2026,WEBCAM HD,South,Lucía,3,49.90
+ORD-10813,06/02/2026,  Wireless Mouse ,North,Javier,2,24.90
+ORD-10579,30/07/2026,Laptop  Stand,East,Lucía,3,€32.00
+ORD-10046,09/07/2026,  Laptop Stand ,East,Ana,1,€32.00
+ORD-11080,04/02/2026,Laptop  Stand,East,Lucía,1,€32.00
+ORD-10132,Jun 03 2026,webcam hd,west,Marta,1,"49,90"
+ORD-11137,2026-04-02,Mechanical  Keyboard,West,Javier,3,79.00
+ORD-11179,2026-09-06,Webcam HD,North,Marta,5,49.90
+ORD-11162,Mar 31 2026,  USB-C Hub ,north,Javier,1,"39,50"
+ORD-10022,Sep 28 2026,LAPTOP STAND,West,Marta,2,€32.00
+ORD-10515,2026-07-31,Wireless Mouse,north,Lucía,2,24.90 €
+ORD-10536,08-03-2026,Mechanical Keyboard,south,Javier,3,79.00 €
+ORD-11186,24-01-2026,  Webcam HD ,West,Lucía,2,"49,90"
+ORD-10494,2026-01-11,  Wireless Mouse ,west,Javier,1,€24.90
+ORD-10069,Jul 28 2026,  USB-C Hub ,North,Luis,5,"39,50"
+ORD-10446,2026-01-02,"27"" monitor",,Luis,1,219.00
+ORD-10120,22/08/2026,USB-C HUB,east,Luis,5,"39,50"
+ORD-10752,2026-02-24,"27"" Monitor",east,Javier,1,"219,00"
+ORD-10459,Jul 26 2026,Mechanical Keyboard,east,Marta,3,79.00 €
+ORD-11087,03-06-2026,"27"" MONITOR",South,Javier,5,219.00
+ORD-10355,Apr 06 2026,USB-C  Hub,North,Marta,1,"39,50"
+ORD-10573,2026-03-26,Mechanical  Keyboard,north,Luis,1,79.00 €
+ORD-10909,09-09-2026,Laptop  Stand,south,Lucía,2,32.00
+ORD-10917,29/01/2026,WEBCAM HD,West,Marta,2,49.90
+ORD-10851,Feb 03 2026,Mechanical Keyboard,South,Javier,1,€79.00
+ORD-11074,Feb 07 2026,Laptop Stand,west,Lucía,1,32.00
+ORD-10912,Mar 26 2026,"27"" MONITOR",north,Javier,2,219.00
+ORD-10044,23-01-2026,WIRELESS MOUSE,north,Luis,3,"24,90"
+ORD-10975,2026-01-03,USB-C  Hub,west,Marta,3,39.50 €
+ORD-10546,06/02/2026,Webcam HD,west,Marta,1,49.90
+ORD-10206,Apr 21 2026,Mechanical Keyboard,north,Luis,1,79.00
+ORD-10853,2026-04-15,laptop stand,east,Lucía,1,"32,00"
+ORD-10308,2026-09-08,Mechanical  Keyboard,North,Ana,5,79.00
+ORD-10431,26-02-2026,Laptop Stand,south,Javier,2,32.00
+ORD-10633,14-05-2026,Mechanical Keyboard,North,Lucía,5,79.00 €
+ORD-11131,29/07/2026,"27"" monitor",West,Lucía,1,"219,00"
+ORD-10076,2026-08-29,wireless mouse,West,Ana,5,24.90
+ORD-10101,Mar 22 2026,  Wireless Mouse ,west,Marta,1,24.90 €
+ORD-10456,May 22 2026,Laptop Stand,east,Ana,2,32.00 €
+ORD-11189,2026-03-28,"  27"" Monitor ",West,Luis,1,219.00 €
+ORD-10197,06/07/2026,  Webcam HD ,north,Javier,1,49.90 €
+ORD-11116,2026-01-12,LAPTOP STAND,East,Marta,2,"32,00"
+ORD-10670,15/06/2026,Laptop  Stand,West,Javier,5,€32.00
+ORD-10622,Sep 19 2026,"27"" Monitor",east,Lucía,1,"219,00"
+ORD-10042,21-03-2026,USB-C  Hub,West,Marta,1,€39.50
+ORD-10837,31-08-2026,"27"" Monitor",east,Luis,1,€219.00
+ORD-10616,21-02-2026,WEBCAM HD,east,Javier,1,49.90 €
+ORD-10841,28/07/2026,mechanical keyboard,north,Luis,3,79.00
+ORD-10771,20/03/2026,USB-C HUB,,Ana,3,39.50
+ORD-11092,12/04/2026,USB-C HUB,north,Luis,1,39.50 €
+ORD-10089,27/07/2026,webcam hd,south,Javier,2,€49.90
+ORD-10393,2026-05-18,Webcam HD,south,Javier,1,49.90
+ORD-10598,05-02-2026,Wireless  Mouse,south,Marta,5,€24.90
+ORD-11122,Mar 08 2026,  Laptop Stand ,South,Javier,5,32.00 €
+ORD-10282,2026-09-19,"  27"" Monitor ",East,Lucía,2,"219,00"
+ORD-10665,05/06/2026,Wireless  Mouse,South,Ana,3,24.90 €
+ORD-10243,Jul 16 2026,LAPTOP STAND,East,Marta,2,€32.00
+ORD-10380,Mar 19 2026,"27"" MONITOR",South,Ana,1,219.00
+ORD-10619,31-01-2026,  Mechanical Keyboard ,South,Javier,3,€79.00
+ORD-10978,Apr 17 2026,  Mechanical Keyboard ,north,Luis,1,€79.00
+ORD-10603,04/02/2026,"27"" MONITOR",south,Javier,1,219.00
+ORD-10760,Mar 23 2026,"27"" Monitor",south,Luis,5,"219,00"
+ORD-11106,08-07-2026,"27"" monitor",east,Ana,1,"219,00"
+ORD-10903,Mar 04 2026,  Mechanical Keyboard ,north,Lucía,2,€79.00
+ORD-10369,Jul 03 2026,WIRELESS MOUSE,east,Luis,2,€24.90
+ORD-10929,25/08/2026,MECHANICAL KEYBOARD,north,Javier,2,€79.00
+ORD-10133,05/09/2026,  Wireless Mouse ,south,Lucía,1,€24.90
+ORD-10565,Mar 18 2026,USB-C HUB,north,Luis,2,39.50
+ORD-10699,02/08/2026,  Mechanical Keyboard ,north,Lucía,1,"79,00"
+ORD-10890,23-01-2026,Wireless Mouse,South,Ana,2,24.90 €
+ORD-10685,31-07-2026,"27"" monitor",West,Marta,1,219.00
+ORD-10099,2026-08-08,USB-C  Hub,South,Luis,3,39.50 €
+ORD-10114,03/05/2026,webcam hd,North,Lucía,2,49.90
+ORD-10808,2026-04-01,  Laptop Stand ,West,Marta,3,"32,00"
+ORD-10342,Jun 26 2026,Wireless Mouse,north,Javier,1,24.90
+ORD-10805,Sep 02 2026,"27"" Monitor",West,Ana,2,"219,00"
+ORD-10981,Aug 05 2026,wireless mouse,East,Javier,3,"24,90"
+ORD-11096,08/03/2026,Mechanical  Keyboard,east,Marta,1,"79,00"
+ORD-10189,13/08/2026,laptop stand,south,Marta,2,"32,00"
+ORD-11012,2026-08-13,"27"" MONITOR",west,Marta,1,219.00 €
+ORD-10983,May 29 2026,"27"" Monitor",west,Marta,1,219.00 €
+ORD-10621,04/03/2026,USB-C  Hub,East,Marta,1,€39.50
+ORD-11194,15/02/2026,USB-C Hub,south,Luis,5,€39.50
+ORD-10483,12-03-2026,  Mechanical Keyboard ,west,Luis,1,79.00 €
+ORD-11095,09/07/2026,USB-C  Hub,east,Ana,1,39.50 €
+ORD-10217,17/07/2026,  USB-C Hub ,west,Marta,5,€39.50
+ORD-10329,14/07/2026,mechanical keyboard,north,Marta,2,79.00 €
+ORD-11153,24-09-2026,"27"" Monitor",West,Marta,1,219.00 €
+ORD-10676,16/06/2026,"  27"" Monitor ",South,Lucía,3,€219.00
+ORD-10886,13-03-2026,"27"" MONITOR",north,Ana,3,219.00
+ORD-10682,2026-07-24,  USB-C Hub ,east,Luis,5,39.50 €
+ORD-11163,04-09-2026,WIRELESS MOUSE,west,Luis,1,24.90 €
+ORD-11006,2026-03-31,Laptop Stand,south,Javier,1,32.00 €
+ORD-10048,21/03/2026,MECHANICAL KEYBOARD,east,Ana,1,€79.00
+ORD-10327,2026-07-01,Laptop  Stand,south,Javier,1,€32.00
+ORD-11121,23/09/2026,wireless mouse,east,Javier,1,24.90
+ORD-10428,2026-03-31,"27"" Monitor",North,Luis,2,219.00 €
+ORD-10728,Jun 18 2026,Laptop  Stand,West,,2,32.00
+ORD-11120,26/05/2026,mechanical keyboard,South,Javier,1,€79.00
+ORD-10907,02-04-2026,"27"" MONITOR",north,Lucía,2,219.00
+ORD-10372,Mar 22 2026,"27"" Monitor",east,Luis,3,219.00 €
+ORD-10954,Jan 26 2026,"27""  Monitor",north,Luis,1,€219.00
+ORD-11086,Sep 01 2026,Webcam  HD,south,Lucía,2,€49.90
+ORD-10311,Sep 30 2026,Laptop Stand,North,Lucía,3,€32.00
+ORD-10825,Sep 17 2026,MECHANICAL KEYBOARD,north,Ana,1,79.00
+ORD-10659,20-03-2026,laptop stand,east,Marta,1,32.00
+ORD-10437,17-08-2026,WIRELESS MOUSE,West,Ana,1,€24.90
+ORD-11168,2026-05-05,"27"" monitor",North,Luis,1,"219,00"
+ORD-10062,22/08/2026,"  27"" Monitor ",west,Javier,1,219.00 €
+ORD-10923,20-04-2026,USB-C Hub,north,Lucía,2,39.50 €
+ORD-11056,25-06-2026,  Webcam HD ,north,Luis,3,€49.90
+ORD-10344,2026-06-28,"  27"" Monitor ",west,,1,€219.00
+ORD-10227,Mar 11 2026,WIRELESS MOUSE,west,Ana,5,€24.90
+ORD-10236,17/02/2026,Laptop  Stand,East,Luis,3,€32.00
+ORD-10648,2026-04-12,USB-C HUB,South,Luis,3,"39,50"
+ORD-10716,Feb 16 2026,wireless mouse,South,Lucía,3,"24,90"
+ORD-10313,04-05-2026,mechanical keyboard,north,Javier,1,€79.00
+ORD-10537,21-01-2026,Mechanical  Keyboard,North,Lucía,5,€79.00
+ORD-11157,2026-04-15,  Mechanical Keyboard ,west,Marta,1,79.00 €
+ORD-11052,01-01-2026,"27"" MONITOR",North,Ana,2,€219.00
+ORD-10052,May 23 2026,USB-C  Hub,south,Ana,1,€39.50
+ORD-10093,01-06-2026,MECHANICAL KEYBOARD,north,Ana,3,79.00 €
+ORD-10204,13-06-2026,WIRELESS MOUSE,East,Ana,1,"24,90"
+ORD-10631,16/08/2026,Mechanical  Keyboard,west,Lucía,2,€79.00
+ORD-10018,17-09-2026,Wireless  Mouse,West,,1,24.90 €
+ORD-11023,13-05-2026,Webcam HD,North,Ana,2,€49.90
+ORD-10149,16/02/2026,Webcam  HD,North,Ana,5,€49.90
+ORD-10196,12/07/2026,MECHANICAL KEYBOARD,East,,1,"79,00"
+ORD-10280,2026-02-09,Laptop Stand,West,Lucía,2,32.00 €
+ORD-10039,21/02/2026,Wireless  Mouse,north,Luis,1,24.90
+ORD-10410,2026-06-10,"27""  Monitor",south,Luis,2,€219.00
+ORD-10579,30/07/2026,Laptop  Stand,East,Lucía,3,€32.00
+ORD-10123,08/01/2026,  Webcam HD ,East,Ana,2,€49.90
+ORD-10234,05/06/2026,mechanical keyboard,West,Marta,2,€79.00
+,,,,,,
+ORD-10649,16/06/2026,wireless mouse,South,Javier,5,24.90 €
+ORD-10644,Jul 20 2026,WIRELESS MOUSE,West,Marta,5,"24,90"
+ORD-10605,01-09-2026,USB-C HUB,north,Luis,3,39.50 €
+ORD-10193,2026-06-18,  Mechanical Keyboard ,south,Ana,-1,€79.00
+ORD-10185,17-09-2026,  Wireless Mouse ,west,Ana,1,€24.90
+ORD-11075,Feb 01 2026,wireless mouse,South,Luis,1,"24,90"
+ORD-10514,13-09-2026,"27"" Monitor",west,Ana,1,"219,00"
+ORD-10747,18/04/2026,USB-C HUB,north,Marta,2,€39.50
+ORD-10950,22/03/2026,Mechanical  Keyboard,east,Marta,2,"79,00"
+ORD-10105,Jul 26 2026,  USB-C Hub ,South,Lucía,1,"39,50"
+ORD-10829,2026-09-06,Laptop Stand,West,Javier,2,€32.00
+ORD-10801,09/09/2026,Wireless  Mouse,east,Luis,2,24.90
+ORD-11039,13-01-2026,Laptop  Stand,South,Lucía,1,32.00 €
+ORD-11183,2026-06-19,  Wireless Mouse ,east,Luis,1,24.90
+ORD-10924,2026-02-17,Webcam  HD,south,Marta,1,"49,90"
+ORD-11160,Aug 30 2026,"27""  Monitor",east,Luis,5,"219,00"
+ORD-10840,2026-09-03,  Webcam HD ,west,Luis,1,49.90
+ORD-10925,07-08-2026,Mechanical Keyboard,north,Lucía,5,€79.00
+ORD-11050,21/02/2026,mechanical keyboard,east,Javier,1,79.00 €
+ORD-10717,19/09/2026,  Laptop Stand ,east,Ana,5,32.00 €
+ORD-10269,31/03/2026,"27"" Monitor",east,Javier,1,€219.00
+ORD-11079,21-08-2026,Laptop  Stand,West,Ana,1,32.00
+ORD-10889,2026-01-22,Mechanical Keyboard,North,Javier,1,€79.00
+ORD-10287,28/06/2026,Wireless  Mouse,east,Lucía,1,24.90 €
+ORD-11055,13-03-2026,  Webcam HD ,,Lucía,2,€49.90
+ORD-11068,May 21 2026,  Wireless Mouse ,south,Lucía,5,24.90
+ORD-10523,30/03/2026,Webcam HD,east,Lucía,2,€49.90
+ORD-10746,2026-06-20,"27"" Monitor",north,Ana,2,€219.00
+ORD-10156,Jan 16 2026,  Wireless Mouse ,east,Ana,2,"24,90"
+ORD-11003,24/03/2026,laptop stand,South,Javier,1,32.00 €
+ORD-10253,Jun 22 2026,Laptop  Stand,north,Javier,5,32.00
+ORD-10882,19-05-2026,Webcam HD,south,Luis,1,49.90 €
+ORD-10779,Jan 06 2026,"27""  Monitor",west,Lucía,3,€219.00
+ORD-10084,27-08-2026,"27"" monitor",West,Ana,1,"219,00"
+ORD-10497,2026-05-25,  Wireless Mouse ,West,Lucía,1,€24.90
+ORD-10288,02-01-2026,  Wireless Mouse ,east,Lucía,2,24.90 €
+ORD-10296,02/08/2026,"27"" monitor",,Luis,5,"219,00"
+ORD-11069,25-04-2026,  Wireless Mouse ,west,Marta,1,"24,90"
+ORD-10944,21-07-2026,USB-C Hub,West,Marta,1,39.50 €
+ORD-10008,Jul 14 2026,usb-c hub,East,Marta,1,39.50 €
+ORD-11021,24/09/2026,USB-C Hub,North,Lucía,2,€39.50
+ORD-10366,Jun 14 2026,  Mechanical Keyboard ,East,Lucía,3,€79.00
+ORD-10439,Mar 27 2026,"  27"" Monitor ",south,Lucía,2,219.00
+ORD-10350,23-08-2026,  Wireless Mouse ,south,Lucía,2,"24,90"
+ORD-10849,May 17 2026,laptop stand,North,Ana,1,€32.00
+ORD-10694,2026-06-11,"27"" MONITOR",West,Lucía,2,219.00
+ORD-11145,03-02-2026,Webcam  HD,south,Ana,1,49.90 €
+ORD-10242,Mar 04 2026,USB-C HUB,East,Ana,1,€39.50
+ORD-10700,09/03/2026,Mechanical  Keyboard,West,Luis,1,79.00 €
+ORD-10785,2026-09-06,mechanical keyboard,South,Luis,2,79.00 €
+ORD-10013,07-05-2026,Webcam  HD,east,Lucía,2,€49.90
+ORD-10512,2026-06-19,USB-C  Hub,West,Lucía,3,"39,50"
+ORD-10352,2026-03-10,USB-C HUB,north,Ana,1,€39.50
+ORD-10969,Aug 12 2026,Wireless Mouse,west,Marta,3,"24,90"
+ORD-10129,2026-03-29,Mechanical  Keyboard,east,Lucía,3,79.00 €
+ORD-10937,25-09-2026,  Webcam HD ,South,Luis,2,49.90
+ORD-10811,Jun 07 2026,"27"" Monitor",North,Marta,1,€219.00
+ORD-10110,May 28 2026,Webcam  HD,North,Javier,1,€49.90
+ORD-10112,28-01-2026,Mechanical  Keyboard,west,Javier,5,79.00
+ORD-10134,Jan 12 2026,webcam hd,North,Lucía,5,49.90
+ORD-10398,25/04/2026,  USB-C Hub ,south,Marta,5,39.50
+ORD-11198,Apr 23 2026,"27"" MONITOR",north,Luis,3,219.00
+ORD-10863,Mar 17 2026,laptop stand,South,Javier,1,32.00 €
+ORD-10759,Jun 04 2026,  Laptop Stand ,east,Luis,2,32.00 €
+ORD-11133,2026-07-23,wireless mouse,South,Luis,1,"24,90"
+ORD-10513,2026-07-26,  Mechanical Keyboard ,west,Lucía,2,79.00
+ORD-10409,2026-04-14,MECHANICAL KEYBOARD,South,Luis,2,"79,00"
+ORD-10902,28-03-2026,WIRELESS MOUSE,south,Luis,2,"24,90"
+ORD-10799,May 22 2026,  Wireless Mouse ,south,Ana,1,€24.90
+ORD-10782,Jan 14 2026,USB-C Hub,East,Lucía,1,€39.50
+ORD-10769,21-07-2026,  Webcam HD ,east,Javier,2,49.90 €
+ORD-10332,Jun 05 2026,wireless mouse,east,Marta,2,€24.90
+ORD-10335,May 05 2026,usb-c hub,east,Marta,1,39.50 €
+ORD-10731,10/09/2026,mechanical keyboard,West,Ana,1,79.00
+ORD-10698,Mar 19 2026,USB-C HUB,South,Javier,2,39.50 €
+ORD-11164,03-01-2026,  Wireless Mouse ,east,Javier,2,€24.90
+ORD-10507,Aug 13 2026,mechanical keyboard,North,Luis,2,"79,00"
+ORD-10563,24/05/2026,mechanical keyboard,South,Ana,1,79.00
+ORD-11048,Sep 10 2026,Laptop Stand,north,Ana,1,"32,00"
+ORD-10931,12/05/2026,  Webcam HD ,West,Ana,1,49.90 €
+ORD-10121,Jan 23 2026,  USB-C Hub ,east,Luis,2,39.50
+ORD-10272,Jun 19 2026,mechanical keyboard,East,Ana,3,€79.00
+ORD-10681,21/07/2026,mechanical keyboard,South,Javier,2,79.00
+ORD-10490,22-08-2026,  Webcam HD ,East,Marta,2,€49.90
+ORD-10938,Jun 10 2026,USB-C HUB,east,Luis,1,39.50
+ORD-10682,2026-07-24,  USB-C Hub ,east,Luis,5,39.50 €
+ORD-10164,30/06/2026,WIRELESS MOUSE,west,Luis,5,24.90
+ORD-10032,25/07/2026,  Wireless Mouse ,North,Javier,1,"24,90"
+ORD-10922,27-03-2026,laptop stand,east,Luis,2,32.00
+ORD-10339,2026-01-19,USB-C Hub,West,Marta,1,39.50
+ORD-10761,11-08-2026,Laptop  Stand,West,Luis,3,32.00
+ORD-10431,26-02-2026,Laptop Stand,south,Javier,2,32.00
+ORD-10963,2026-03-09,Laptop  Stand,East,Marta,1,"32,00"
+ORD-10136,09/05/2026,Webcam HD,North,Marta,5,"49,90"
+ORD-10041,28-09-2026,Wireless Mouse,East,Marta,1,24.90
+ORD-10291,2026-02-21,  Laptop Stand ,North,Luis,3,32.00
+ORD-10194,03-04-2026,  Mechanical Keyboard ,West,Luis,1,79.00 €
+ORD-10113,15/04/2026,usb-c hub,west,Javier,1,39.50
+,,,,,,
+ORD-10726,19-01-2026,wireless mouse,south,Javier,5,24.90
+ORD-10891,13-04-2026,Mechanical Keyboard,South,Luis,5,€79.00
+ORD-10904,Jul 24 2026,USB-C  Hub,east,Javier,2,€39.50
+ORD-10367,Aug 01 2026,"27"" Monitor",,Javier,2,€219.00
+ORD-10991,07-09-2026,  USB-C Hub ,north,Ana,-1,39.50 €
+ORD-10444,19/06/2026,  Mechanical Keyboard ,north,Marta,1,79.00 €
+ORD-10765,20-08-2026,  Laptop Stand ,west,Luis,1,€32.00
+ORD-10993,16/03/2026,  Webcam HD ,West,Ana,1,"49,90"
+ORD-10143,2026-04-24,  Webcam HD ,north,Javier,1,49.90 €
+ORD-10165,29-06-2026,Laptop Stand,north,Lucía,1,"32,00"
+ORD-10952,01/08/2026,  USB-C Hub ,east,Lucía,1,39.50
+ORD-11150,Jun 08 2026,MECHANICAL KEYBOARD,South,Ana,1,€79.00
+ORD-10967,Mar 26 2026,USB-C HUB,west,Ana,1,39.50 €
+ORD-10449,Jul 09 2026,Mechanical Keyboard,north,Javier,2,€79.00
+ORD-10111,2026-05-10,  USB-C Hub ,North,Lucía,2,"39,50"
+ORD-10275,Jan 04 2026,USB-C HUB,west,Marta,1,€39.50
+ORD-10831,May 02 2026,WEBCAM HD,east,Luis,1,"49,90"
+ORD-10549,2026-07-19,Webcam  HD,North,Lucía,1,49.90
+ORD-10186,2026-05-27,Wireless  Mouse,east,Javier,2,24.90
+ORD-11192,16-02-2026,WEBCAM HD,South,Marta,2,"49,90"
+ORD-10438,2026-02-25,Webcam HD,east,Javier,3,"49,90"
+ORD-10373,04-06-2026,Mechanical Keyboard,south,Marta,1,€79.00
+ORD-10306,Jun 18 2026,Mechanical  Keyboard,West,Javier,2,€79.00
+ORD-10383,2026-07-20,USB-C HUB,west,Javier,1,39.50 €
+ORD-10404,07/06/2026,Wireless  Mouse,West,Javier,2,24.90
+ORD-10481,2026-05-31,"  27"" Monitor ",North,Lucía,2,219.00
+ORD-11032,21/01/2026,Laptop Stand,south,Marta,1,€32.00
+,,,,,,
+ORD-10672,23-09-2026,Mechanical Keyboard,north,Luis,1,€79.00
+ORD-10787,28-01-2026,Webcam HD,North,Luis,2,"49,90"
+ORD-10159,Apr 21 2026,"27"" MONITOR",east,Marta,5,"219,00"
+ORD-10007,24/01/2026,webcam hd,South,Luis,5,49.90
+ORD-11001,Aug 29 2026,USB-C HUB,West,Lucía,3,€39.50
+ORD-10935,10-06-2026,Laptop Stand,east,Marta,3,32.00
+ORD-10126,2026-04-27,  Webcam HD ,South,Ana,2,49.90 €
+ORD-10420,Jun 01 2026,"27""  Monitor",west,Ana,1,€219.00
+ORD-11190,Feb 15 2026,Wireless Mouse,East,Marta,2,€24.90
+ORD-10920,Jan 12 2026,USB-C  Hub,east,Marta,2,39.50
+ORD-10526,10/06/2026,WEBCAM HD,West,Lucía,3,€49.90
+ORD-10541,05-01-2026,  Wireless Mouse ,West,Lucía,2,24.90 €
+ORD-11152,May 02 2026,webcam hd,East,Marta,1,49.90
+ORD-11111,30/08/2026,  Webcam HD ,West,Luis,3,49.90 €
+ORD-10503,2026-02-18,WIRELESS MOUSE,East,Marta,1,"24,90"
+ORD-10441,31-05-2026,wireless mouse,South,Ana,1,24.90 €
+ORD-10103,06/08/2026,WIRELESS MOUSE,north,Luis,1,24.90
+ORD-10009,2026-05-17,Webcam  HD,East,Lucía,3,49.90 €
+ORD-10363,2026-04-16,Mechanical  Keyboard,south,Lucía,1,79.00 €
+ORD-10411,2026-08-26,USB-C Hub,East,Marta,5,39.50
+ORD-10190,2026-06-23,webcam hd,South,Marta,1,"49,90"
+ORD-10739,23/06/2026,"27""  Monitor",east,Luis,2,219.00
+ORD-11195,2026-07-14,laptop stand,North,Lucía,2,32.00 €
+ORD-11043,01-08-2026,  Wireless Mouse ,north,Ana,1,24.90
+ORD-10005,26-06-2026,Laptop Stand,west,Lucía,1,"32,00"
+ORD-10109,2026-06-20,USB-C HUB,south,Javier,3,"39,50"
+ORD-10362,02-05-2026,Mechanical  Keyboard,east,Luis,2,79.00 €
+ORD-10305,16-03-2026,Wireless  Mouse,east,Marta,1,24.90 €
+ORD-10336,2026-04-03,  Webcam HD ,West,Javier,5,€49.90
+ORD-10471,25-04-2026,usb-c hub,east,Javier,5,€39.50
+ORD-10630,15-01-2026,wireless mouse,west,Javier,5,€24.90
+ORD-10006,10-02-2026,Laptop  Stand,south,Lucía,1,32.00
+ORD-10364,15-06-2026,webcam hd,north,Lucía,3,49.90
+ORD-10058,2026-06-04,"27"" monitor",north,Luis,2,€219.00
+ORD-10499,Apr 17 2026,webcam hd,West,Ana,1,49.90
+ORD-11061,Jul 09 2026,Mechanical Keyboard,West,Ana,5,€79.00
+ORD-10632,27/06/2026,"27"" Monitor",west,Marta,1,"219,00"
+ORD-10913,Sep 09 2026,  Webcam HD ,East,Lucía,1,"49,90"
+ORD-10474,04-09-2026,wireless mouse,south,Marta,1,€24.90
+ORD-10957,Jul 15 2026,MECHANICAL KEYBOARD,West,Marta,3,79.00 €
+ORD-10036,26/07/2026,Wireless  Mouse,North,Lucía,1,"24,90"
+ORD-10914,May 15 2026,"27""  Monitor",south,Marta,1,219.00
+ORD-10845,07/08/2026,USB-C Hub,south,Ana,2,€39.50
+ORD-10527,26/06/2026,WEBCAM HD,south,Ana,5,€49.90
+ORD-10658,2026-05-03,USB-C  Hub,east,Luis,2,"39,50"
+ORD-11058,Jan 02 2026,Laptop Stand,North,Luis,2,"32,00"
+ORD-10955,2026-03-29,Laptop Stand,east,Javier,5,"32,00"
+ORD-10951,10/03/2026,USB-C  Hub,south,Marta,1,39.50
+ORD-10312,May 27 2026,WIRELESS MOUSE,South,Ana,2,24.90 €
+ORD-10945,13-08-2026,  Webcam HD ,North,Marta,5,49.90
+ORD-10222,Jan 16 2026,Mechanical Keyboard,East,Ana,1,€79.00
+ORD-10403,13-01-2026,Mechanical Keyboard,south,Ana,5,"79,00"
+ORD-10582,2026-04-01,"27""  Monitor",South,Ana,2,219.00 €
+ORD-10646,2026-04-12,"27""  Monitor",West,Javier,2,€219.00
+ORD-10755,29/08/2026,MECHANICAL KEYBOARD,north,Marta,2,79.00 €
+ORD-10002,2026-09-16,Laptop  Stand,West,Lucía,2,32.00 €
+ORD-10436,09-02-2026,mechanical keyboard,East,Ana,5,€79.00
+ORD-10542,21-01-2026,  Webcam HD ,South,Javier,1,€49.90
+ORD-10601,01-03-2026,Laptop  Stand,north,Javier,2,"32,00"
+ORD-10989,2026-04-19,Mechanical  Keyboard,north,Ana,2,79.00
+ORD-10612,07/01/2026,  Webcam HD ,South,Marta,1,€49.90
+ORD-10594,16-07-2026,"27""  Monitor",North,Luis,3,"219,00"
+ORD-10241,26/06/2026,"27"" monitor",South,Marta,1,"219,00"
+ORD-10511,Sep 16 2026,"27"" MONITOR",South,Javier,1,219.00 €
+ORD-10692,May 19 2026,Wireless Mouse,South,Javier,3,€24.90
+ORD-10231,Jun 08 2026,"27""  Monitor",east,Javier,5,219.00
+ORD-10764,16/02/2026,Mechanical  Keyboard,North,Luis,3,79.00 €
+ORD-11109,20-06-2026,mechanical keyboard,north,Marta,1,79.00 €
+ORD-11146,Jul 30 2026,USB-C Hub,East,Marta,1,€39.50
+ORD-11014,Apr 27 2026,  Mechanical Keyboard ,east,Javier,5,€79.00
+ORD-10865,17/06/2026,Wireless  Mouse,West,Marta,1,24.90
+ORD-10104,26-03-2026,  USB-C Hub ,South,Javier,3,€39.50
+ORD-10723,17/04/2026,WIRELESS MOUSE,North,Marta,1,24.90 €
+ORD-10273,01/06/2026,LAPTOP STAND,east,Javier,2,€32.00
+ORD-10751,Jun 23 2026,Laptop Stand,East,Ana,2,32.00
+ORD-10153,15/06/2026,wireless mouse,North,Luis,3,"24,90"
+ORD-10358,2026-04-23,usb-c hub,West,Lucía,1,39.50 €
+ORD-10460,Jan 26 2026,webcam hd,south,Ana,1,€49.90
+ORD-10345,2026-01-23,Webcam HD,south,Ana,3,49.90 €
+ORD-10918,2026-02-03,usb-c hub,East,Ana,2,€39.50
+ORD-10086,04/04/2026,"27"" monitor",north,Marta,1,€219.00
+ORD-10500,Feb 26 2026,LAPTOP STAND,South,Lucía,1,32.00
+ORD-11105,27-08-2026,  Laptop Stand ,west,Javier,2,"32,00"
+ORD-10870,2026-08-01,MECHANICAL KEYBOARD,West,Marta,2,€79.00
+ORD-10014,Apr 23 2026,Mechanical Keyboard,North,Ana,1,79.00 €
+ORD-10389,21-03-2026,  Laptop Stand ,South,Marta,3,"32,00"
+ORD-10028,2026-08-28,Webcam HD,North,Javier,3,€49.90
+,,,,,,
+ORD-11141,23/04/2026,WIRELESS MOUSE,North,Javier,2,24.90
+ORD-11054,2026-01-24,mechanical keyboard,South,Javier,3,79.00
+ORD-11019,15-08-2026,  Webcam HD ,West,Marta,1,49.90
+ORD-10982,17-02-2026,  Wireless Mouse ,West,Luis,2,24.90
+ORD-10279,30/08/2026,LAPTOP STAND,South,Lucía,2,€32.00
+ORD-11041,10/01/2026,USB-C HUB,west,Ana,5,€39.50
+ORD-10868,10-07-2026,wireless mouse,south,Marta,2,24.90
+ORD-10021,05/02/2026,LAPTOP STAND,west,Lucía,1,€32.00
+ORD-11009,2026-02-26,Wireless  Mouse,North,Lucía,1,24.90 €
+ORD-10585,06-08-2026,  Mechanical Keyboard ,West,Ana,1,"79,00"
+ORD-10612,07/01/2026,  Webcam HD ,South,Marta,1,€49.90
+ORD-10117,16/03/2026,"27""  Monitor",East,Ana,1,"219,00"
+ORD-10338,2026-08-05,"  27"" Monitor ",west,Lucía,2,"219,00"
+ORD-10191,26/05/2026,usb-c hub,South,Lucía,3,39.50 €
+ORD-10491,Apr 07 2026,Mechanical Keyboard,West,Luis,3,79.00 €
+ORD-10157,07-02-2026,Wireless  Mouse,East,Ana,1,€24.90
+ORD-10162,19-02-2026,WEBCAM HD,North,Lucía,2,€49.90
+ORD-10184,Feb 04 2026,"27"" monitor",north,Lucía,1,€219.00
+ORD-11191,23-04-2026,  Webcam HD ,South,Luis,2,"49,90"
+ORD-10832,Sep 06 2026,WIRELESS MOUSE,West,Lucía,2,24.90 €
+ORD-11077,May 31 2026,"27"" Monitor",east,Luis,5,219.00
+ORD-10178,Jun 16 2026,mechanical keyboard,South,Javier,5,79.00
+ORD-10625,19-05-2026,"27""  Monitor",west,Javier,1,219.00 €
+ORD-10468,29/06/2026,usb-c hub,South,Marta,1,"39,50"
+ORD-11066,25-09-2026,WEBCAM HD,North,Lucía,2,€49.90
+ORD-10876,15-01-2026,  Wireless Mouse ,South,Lucía,3,€24.90
+ORD-10564,27/07/2026,Laptop Stand,north,Lucía,2,"32,00"
+ORD-10587,16-04-2026,  Webcam HD ,south,Ana,1,"49,90"
+ORD-11028,Sep 27 2026,"27"" monitor",west,Javier,2,"219,00"
+ORD-10959,19-08-2026,Mechanical  Keyboard,west,Ana,1,"79,00"
+ORD-10724,17-01-2026,webcam hd,South,Ana,1,"49,90"
+ORD-10898,Feb 12 2026,USB-C Hub,east,Marta,2,€39.50
+ORD-10374,Mar 26 2026,wireless mouse,West,Javier,3,24.90
+ORD-10937,25-09-2026,  Webcam HD ,South,Luis,2,49.90
+ORD-10856,23/08/2026,usb-c hub,East,Marta,1,"39,50"
+ORD-10510,Sep 04 2026,USB-C HUB,North,Ana,3,39.50 €
+ORD-10758,Sep 18 2026,Wireless Mouse,south,Lucía,3,24.90
+ORD-10108,May 23 2026,  Mechanical Keyboard ,South,Javier,1,"79,00"
+ORD-10547,07/02/2026,wireless mouse,South,Lucía,5,24.90 €
+ORD-10988,Jun 10 2026,  Laptop Stand ,north,Marta,5,32.00 €
+ORD-10292,25/07/2026,"27""  Monitor",West,Ana,1,€219.00
+ORD-10258,01/02/2026,Webcam  HD,West,Lucía,1,"49,90"
+ORD-10318,2026-05-24,LAPTOP STAND,south,Ana,1,32.00 €
+ORD-11051,14/03/2026,USB-C HUB,east,Lucía,2,39.50
+ORD-10019,29-09-2026,  Wireless Mouse ,North,Ana,1,€24.90
+ORD-10530,13/04/2026,usb-c hub,north,Luis,5,39.50
+ORD-10261,26-04-2026,USB-C HUB,west,Marta,2,€39.50
+ORD-10976,19-04-2026,wireless mouse,North,Ana,2,"24,90"
+ORD-10824,03/01/2026,LAPTOP STAND,South,Lucía,1,€32.00
+ORD-11140,2026-01-09,"27"" Monitor",south,Luis,3,219.00
+ORD-10706,Jul 11 2026,  Mechanical Keyboard ,west,Luis,1,79.00 €
+ORD-10199,Jul 15 2026,LAPTOP STAND,West,Lucía,1,€32.00
+ORD-10797,05/04/2026,wireless mouse,north,Javier,3,24.90
+ORD-10651,May 08 2026,Mechanical Keyboard,south,Ana,1,€79.00
+ORD-10349,2026-02-02,Laptop  Stand,East,Marta,1,32.00 €
+ORD-10098,02/08/2026,Laptop  Stand,east,Javier,2,€32.00
+ORD-11185,21/09/2026,"27"" Monitor",south,Ana,3,€219.00
+ORD-10555,24/03/2026,Mechanical  Keyboard,north,Luis,1,79.00 €
+ORD-10577,17/03/2026,wireless mouse,East,Lucía,2,24.90
+ORD-10714,Mar 11 2026,"27"" monitor",west,Ana,1,"219,00"
+ORD-11083,09/06/2026,LAPTOP STAND,west,Marta,2,€32.00
+ORD-10195,2026-02-09,USB-C  Hub,North,Marta,5,39.50 €
+ORD-11002,28-08-2026,  Mechanical Keyboard ,east,Marta,5,"79,00"
+ORD-10627,2026-02-22,  Wireless Mouse ,North,Ana,5,"24,90"
+ORD-11078,Aug 21 2026,"  27"" Monitor ",South,Marta,3,219.00
+ORD-10359,Aug 23 2026,Laptop  Stand,South,Lucía,1,€32.00
+ORD-10252,17-06-2026,LAPTOP STAND,east,Lucía,3,€32.00
+ORD-10215,2026-08-31,USB-C HUB,north,Marta,5,39.50
+ORD-10775,13/09/2026,Webcam  HD,north,Javier,2,€49.90
+ORD-10455,2026-05-13,USB-C Hub,east,Lucía,2,€39.50
+ORD-10772,Mar 15 2026,  Webcam HD ,East,Ana,1,"49,90"
+ORD-10200,Jan 27 2026,webcam hd,South,Lucía,5,49.90
+ORD-10020,03/05/2026,Wireless  Mouse,South,Ana,3,"24,90"
+ORD-10560,11/06/2026,"27"" Monitor",south,Luis,5,219.00 €
+ORD-10462,Jun 14 2026,USB-C  Hub,South,Luis,2,39.50 €
+ORD-10299,10-02-2026,"27"" Monitor",West,Ana,1,"219,00"
+ORD-10559,19-08-2026,USB-C  Hub,East,Lucía,2,€39.50
+ORD-10683,04/09/2026,  Laptop Stand ,east,Lucía,1,32.00 €
+ORD-10743,05/09/2026,LAPTOP STAND,south,Javier,3,€32.00
+ORD-10182,16/03/2026,USB-C HUB,East,Ana,1,"39,50"
+ORD-10674,02/07/2026,mechanical keyboard,south,Lucía,1,79.00 €
+ORD-10135,12/09/2026,USB-C  Hub,south,Luis,3,39.50 €
+ORD-10833,18/07/2026,  USB-C Hub ,West,Marta,1,39.50 €
+ORD-11123,08-03-2026,  Mechanical Keyboard ,west,Luis,2,€79.00
+ORD-10225,2026-05-08,WIRELESS MOUSE,west,Lucía,2,24.90
+ORD-11088,2026-09-11,MECHANICAL KEYBOARD,West,Javier,2,79.00 €
+ORD-10802,15-08-2026,Webcam HD,North,Ana,1,€49.90
+ORD-10553,06/01/2026,Laptop Stand,North,Ana,2,"32,00"
+ORD-10158,16-06-2026,"  27"" Monitor ",east,Ana,5,219.00
+ORD-10506,2026-02-27,MECHANICAL KEYBOARD,South,Javier,2,"79,00"
+ORD-10053,02-04-2026,Laptop Stand,South,Lucía,2,€32.00
+ORD-10776,Jan 18 2026,wireless mouse,South,Lucía,2,24.90
+ORD-10888,2026-02-10,"27"" Monitor",,Javier,-5,"219,00"
+ORD-10647,2026-06-15,Mechanical  Keyboard,South,Marta,2,€79.00
+ORD-10314,27/07/2026,"27"" MONITOR",north,Ana,3,219.00
+ORD-10859,01-03-2026,Wireless  Mouse,East,Javier,1,€24.90
+ORD-10335,May 05 2026,usb-c hub,east,Marta,1,39.50 €
+ORD-11047,2026-07-12,WIRELESS MOUSE,West,Lucía,2,24.90 €
+ORD-10762,Sep 07 2026,wireless mouse,South,Javier,1,€24.90
+ORD-10394,2026-05-15,  Webcam HD ,west,Lucía,1,49.90
+ORD-10551,Aug 13 2026,"27"" Monitor",west,Luis,2,219.00 €
+ORD-10144,24-01-2026,  Wireless Mouse ,South,Ana,1,24.90 €
+ORD-10417,Mar 04 2026,Wireless Mouse,East,Lucía,2,"24,90"
+ORD-11097,06/05/2026,Wireless  Mouse,north,Luis,1,24.90 €
+ORD-10293,30-04-2026,Webcam  HD,south,Luis,1,49.90 €
+ORD-10871,Feb 03 2026,Laptop Stand,North,Javier,3,€32.00
+ORD-10520,03/03/2026,"  27"" Monitor ",West,Marta,1,"219,00"
+ORD-10170,27/01/2026,Mechanical  Keyboard,North,Ana,1,"79,00"
+ORD-10934,2026-04-01,  Webcam HD ,North,Ana,5,49.90
+ORD-10819,2026-05-05,LAPTOP STAND,South,Lucía,2,32.00 €
+ORD-10334,03/09/2026,  USB-C Hub ,south,Marta,3,"39,50"
+ORD-10781,May 14 2026,Wireless  Mouse,East,Lucía,1,€24.90
+ORD-10533,28-01-2026,WIRELESS MOUSE,west,Luis,3,€24.90
+ORD-10522,2026-09-13,Wireless  Mouse,east,Lucía,2,24.90 €
+ORD-11126,2026-08-25,Laptop Stand,north,Javier,1,€32.00
+ORD-10152,2026-03-31,WIRELESS MOUSE,North,Marta,5,24.90 €
+ORD-10864,2026-03-01,  USB-C Hub ,West,Javier,1,39.50
+ORD-10713,Sep 22 2026,  Mechanical Keyboard ,South,Lucía,1,79.00 €
+ORD-10568,29-04-2026,wireless mouse,West,Ana,3,24.90 €
+ORD-10735,15/01/2026,mechanical keyboard,south,Javier,2,79.00
+ORD-10442,2026-07-12,Mechanical  Keyboard,South,Marta,2,"79,00"
+ORD-11130,2026-09-10,"27"" monitor",South,Ana,2,€219.00
+ORD-10274,2026-02-14,"27"" MONITOR",East,Javier,1,219.00 €
+ORD-10440,03/09/2026,LAPTOP STAND,west,Ana,5,32.00
+ORD-10613,06-04-2026,LAPTOP STAND,north,Javier,2,€32.00
+ORD-10290,Jan 17 2026,Webcam  HD,North,Luis,1,49.90
+ORD-10385,Jul 18 2026,laptop stand,East,Javier,5,32.00
+ORD-10075,21-08-2026,  USB-C Hub ,north,Javier,1,39.50
+ORD-10485,21/05/2026,Mechanical  Keyboard,East,Javier,5,79.00
+ORD-10091,29/04/2026,wireless mouse,South,Lucía,5,24.90 €
+ORD-10202,Feb 16 2026,mechanical keyboard,North,Javier,1,"79,00"
+ORD-10429,Jan 11 2026,Laptop Stand,,Lucía,1,32.00 €
+ORD-11045,28/07/2026,Webcam HD,south,Luis,1,49.90
+ORD-11102,17/04/2026,  Mechanical Keyboard ,West,Javier,1,€79.00
+ORD-10721,Jan 03 2026,LAPTOP STAND,West,Lucía,3,"32,00"
+ORD-11070,2026-04-10,USB-C  Hub,North,Luis,3,"39,50"
+ORD-10640,2026-04-07,USB-C HUB,North,Lucía,1,39.50 €
+ORD-11004,Apr 13 2026,Mechanical Keyboard,east,Javier,1,79.00 €
+ORD-11181,06-09-2026,"27""  Monitor",east,Marta,1,€219.00
+ORD-10286,Aug 04 2026,  USB-C Hub ,east,Javier,1,39.50 €
+ORD-10911,2026-08-15,"27"" Monitor",East,Lucía,3,€219.00
+ORD-11093,2026-04-02,MECHANICAL KEYBOARD,north,Ana,1,79.00 €
+ORD-10600,2026-03-31,"27""  Monitor",South,Lucía,1,€219.00
+ORD-11063,05-07-2026,  Wireless Mouse ,West,Ana,1,"24,90"
+ORD-10094,2026-05-21,Wireless  Mouse,north,Luis,3,"24,90"
+ORD-10615,06-07-2026,"  27"" Monitor ",East,Lucía,1,219.00 €
+ORD-10508,Feb 27 2026,"27"" Monitor",South,Marta,3,€219.00
+ORD-10000,27-02-2026,WIRELESS MOUSE,West,Luis,3,24.90
+ORD-10866,Feb 12 2026,Laptop Stand,east,Luis,2,€32.00
+ORD-10351,28-02-2026,  USB-C Hub ,East,Marta,2,39.50
+ORD-11114,11/07/2026,mechanical keyboard,North,Javier,5,€79.00
+ORD-10744,2026-06-17,Mechanical  Keyboard,East,Luis,3,79.00
+,,,,,,
+ORD-11036,13/07/2026,"27"" MONITOR",west,Javier,3,"219,00"
+ORD-10255,16/05/2026,Webcam HD,west,Luis,2,"49,90"
+ORD-10173,Jan 24 2026,Mechanical  Keyboard,North,Ana,1,€79.00
+ORD-10071,Jun 02 2026,"27""  Monitor",West,Javier,1,€219.00
+ORD-10525,31/05/2026,"27"" MONITOR",east,Lucía,3,€219.00
+ORD-11151,13/09/2026,USB-C HUB,east,Luis,3,39.50
+ORD-10179,May 05 2026,"27""  Monitor",South,Javier,5,€219.00
+ORD-10330,Feb 02 2026,mechanical keyboard,east,Marta,2,79.00
+ORD-10422,15-07-2026,  Webcam HD ,west,Marta,2,€49.90
+ORD-11177,2026-08-14,WEBCAM HD,South,Marta,1,"49,90"
+ORD-10263,2026-03-16,usb-c hub,South,Marta,2,€39.50
+ORD-10080,23/07/2026,Webcam HD,West,Ana,3,€49.90
+ORD-10251,20-01-2026,  Mechanical Keyboard ,west,Luis,2,79.00 €
+ORD-10643,2026-07-10,"27"" monitor",South,Luis,1,€219.00
+ORD-10915,2026-01-15,LAPTOP STAND,south,Marta,5,32.00
+ORD-11136,2026-07-20,Mechanical Keyboard,north,Luis,2,€79.00
+ORD-10010,Mar 25 2026,"27"" monitor",West,Marta,5,219.00
+ORD-10368,Jul 08 2026,"27"" monitor",North,Ana,3,"219,00"
+ORD-10806,04-03-2026,laptop stand,north,Javier,1,32.00
+ORD-10370,15-06-2026,USB-C  Hub,East,Lucía,-5,"39,50"
+ORD-10240,26-08-2026,Mechanical  Keyboard,,Marta,5,€79.00
+ORD-10424,May 24 2026,Wireless  Mouse,south,Lucía,1,24.90 €
+ORD-10254,2026-07-08,  USB-C Hub ,north,Ana,2,"39,50"
+ORD-11103,06/08/2026,"27"" monitor",north,Lucía,1,219.00 €
+ORD-11197,2026-02-24,"27""  Monitor",west,Marta,1,€219.00
+ORD-11062,2026-07-03,Mechanical  Keyboard,north,Luis,1,"79,00"
+,,,,,,
+ORD-11000,Aug 18 2026,Webcam HD,East,Marta,3,49.90 €
+ORD-11085,05/08/2026,USB-C HUB,West,Ana,1,39.50 €
+ORD-11098,28-01-2026,WEBCAM HD,west,Luis,3,49.90
+ORD-11138,2026-09-25,  Webcam HD ,north,Javier,1,49.90
+ORD-10806,04-03-2026,laptop stand,north,Javier,1,32.00
+ORD-10040,06-05-2026,USB-C HUB,west,Lucía,3,€39.50
+ORD-10830,03-08-2026,MECHANICAL KEYBOARD,South,Marta,1,79.00
+ORD-10378,22-02-2026,wireless mouse,north,Luis,2,24.90 €
+ORD-11100,23/09/2026,"27"" monitor",south,Lucía,3,"219,00"
+ORD-10130,12/09/2026,LAPTOP STAND,west,Marta,2,€32.00
+ORD-10666,30/09/2026,"27"" MONITOR",West,Lucía,3,219.00 €
+ORD-10203,15/09/2026,  USB-C Hub ,South,Marta,1,39.50
+ORD-10256,17/03/2026,Webcam HD,South,Luis,1,"49,90"
+ORD-11170,2026-07-16,"27""  Monitor",West,Javier,1,"219,00"
+ORD-10611,2026-03-31,"27""  Monitor",west,Marta,3,219.00
